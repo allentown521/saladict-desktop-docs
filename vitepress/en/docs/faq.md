@@ -51,7 +51,7 @@ titleTemplate: FAQ
 
   If WebView2 has been uninstalled, you can download the installation package from the Microsoft official website and reinstall WebView2.
 
-  If the enterprise edition system is inconvenient to install or cannot install WebView2, please try to download the fix WebView2 version `pot_{version}_{arch}_fix_webview2_runtime-setup.exe` at [Release](https://github.com/pot-app/pot-desktop/releases/latest)
+  If the enterprise edition system is inconvenient to install or cannot install WebView2, please try to download the fix WebView2 version `pot_{version}_{arch}_fix_webview2_runtime-setup.exe` at [Release](https://github.com/allentown521/saladict/releases/latest)
 
   If the problem persists, try booting in Windows 7 compatibility mode.
 

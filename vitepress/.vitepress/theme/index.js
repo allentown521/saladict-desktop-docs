@@ -22,7 +22,7 @@ export default {
     const { frontmatter } = useData();
     const route = useRoute();
     giscusTalk({
-      repo: 'pot-app/pot-desktop',
+      repo: 'allentown521/saladict',
       repoId: 'R_kgDOJCp3Ww',
       category: 'General',
       categoryId: 'DIC_kwDOJCp3W84CUrQN',

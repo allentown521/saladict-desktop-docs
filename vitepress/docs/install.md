@@ -146,7 +146,7 @@ Flatpak 版本缺失托盘图标。
 1. 克隆仓库
 
 ```bash
-git clone https://github.com/pot-app/pot-desktop.git
+git clone https://github.com/allentown521/saladict.git
 ```
 
 2. 安装构建依赖 (Linux Only)

@@ -66,14 +66,14 @@ rm ~/.cache/com.pot-app.desktop/pot_screenshot_cut.png && flameshot gui -s -p ~/
 ### SnipDo (Windows)
 
 1. 从 [Microsoft Store](https://apps.microsoft.com/store/detail/snipdo/9NPZ2TVKJVT7) 下载安装 SnipDo。
-2. 从 [Release](https://github.com/pot-app/pot-desktop/releases/latest) 下载 pot 的 SnipDo 扩展 (pot.pbar)
+2. 从 [Release](https://github.com/allentown521/saladict/releases/latest) 下载 pot 的 SnipDo 扩展 (pot.pbar)
 3. 双击下载的扩展文件完成安装。
 4. 选中文字，可以看到弹出的 SnipDo 工具条，点击翻译按钮即可翻译。
 
 ### PopClip (MacOS)
 
 1. 从 [App Store](https://apps.apple.com/us/app/popclip/id445189367?mt=12) 下载安装 PopClip
-2. 从 [Release](https://github.com/pot-app/pot-desktop/releases/latest) 下载 pot 的 PopClip 扩展 (pot.popclipextz)
+2. 从 [Release](https://github.com/allentown521/saladict/releases/latest) 下载 pot 的 PopClip 扩展 (pot.popclipextz)
 3. 双击下载的扩展文件完成安装。
 4. 在 PopClip 的扩展中启用 pot 扩展，选中文本即可点击翻译。
 

@@ -138,11 +138,11 @@ export const zhConfig = {
       ],
     },
     footer: {
-      message: "基于<a href='https://github.com/pot-app/pot-desktop/blob/master/LICENSE' target='_blank'><b>GPL-3.0</b></a>开源协议发布<br/>Copyright © 2023-present <a href='https://github.com/pot-app' target='_blank'><b>Saladict-App</b></a>"
+      message: "基于<a href='https://github.com/allentown521/saladict/blob/master/LICENSE' target='_blank'><b>GPL-3.0</b></a>开源协议发布<br/>Copyright © 2023-present <a href='https://github.com/pot-app' target='_blank'><b>Saladict-App</b></a>"
     },
     editLink: {
       pattern:
-        "https://github.com/pot-app/pot-docs-vitepress/edit/main/vitepress/:path",
+        "https://github.com/allentown521/saladict-desktop-docs/edit/main/vitepress/:path",
       text: "在 GitHub 上编辑此页面",
     },
   },

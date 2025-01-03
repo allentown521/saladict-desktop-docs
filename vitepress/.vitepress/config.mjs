@@ -36,7 +36,7 @@ export default defineConfig({
         },
       },
     },
-    socialLinks: [{ icon: "github", link: "https://github.com/pot-app/pot-desktop" }],
+    socialLinks: [{ icon: "github", link: "https://github.com/allentown521/saladict" }],
   },
   locales: {
     root: {

@@ -146,7 +146,7 @@ The tray icon is missing in Flatpak version.
 1. Clone Repository
 
 ```bash
-git clone https://github.com/pot-app/pot-desktop.git
+git clone https://github.com/allentown521/saladict.git
 ```
 
 2. Installing dependencies (Linux Only)

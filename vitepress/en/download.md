@@ -11,11 +11,11 @@ const version = '3.0.5'
 
 const download = (arch,ext)=>{
     if(ext === 'exe'){
-        open(`https://github.com/pot-app/pot-desktop/releases/download/${version}/pot_${version}_${arch}-setup.exe`)
+        open(`https://github.com/allentown521/saladict/releases/download/${version}/pot_${version}_${arch}-setup.exe`)
     }else if(ext === 'dmg'){
-        open(`https://github.com/pot-app/pot-desktop/releases/download/${version}/pot_${version}_${arch}.dmg`)
+        open(`https://github.com/allentown521/saladict/releases/download/${version}/pot_${version}_${arch}.dmg`)
     }else{
-        open(`https://github.com/pot-app/pot-desktop/releases/download/${version}/pot_${version}_${arch}.${ext}`)
+        open(`https://github.com/allentown521/saladict/releases/download/${version}/pot_${version}_${arch}.${ext}`)
     }
 }
 </script>

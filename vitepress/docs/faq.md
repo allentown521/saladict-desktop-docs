@@ -50,7 +50,7 @@ titleTemplate: 常见问题
 
   如果是卸载了 WebView2，可以在微软官网下载安装包重新安装 WebView2。
 
-  如果是企业版系统不方便安装或无法安装 WebView2，请尝试在 [Release](https://github.com/pot-app/pot-desktop/releases/latest) 下载内置 WebView2 的版本 `pot_{version}_{arch}_fix_webview2_runtime-setup.exe`
+  如果是企业版系统不方便安装或无法安装 WebView2，请尝试在 [Release](https://github.com/allentown521/saladict/releases/latest) 下载内置 WebView2 的版本 `pot_{version}_{arch}_fix_webview2_runtime-setup.exe`
 
   若问题仍然存在请尝试使用 Windows7 兼容模式启动。
 
