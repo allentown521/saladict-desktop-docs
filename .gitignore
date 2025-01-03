@@ -2,3 +2,4 @@
 /vitepress/.vitepress/dist/
 node_modules/
 .env
+dist/

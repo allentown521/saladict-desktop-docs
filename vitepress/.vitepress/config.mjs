@@ -50,4 +50,16 @@ export default defineConfig({
       ...enConfig,
     },
   },
+  sitemap: {
+    hostname: "https://saladict-app.aichatone.com",
+    transformItems: (items) => {
+      return items.map((item) => {
+        return {
+          ...item,
+          changefreq: 'weekly',
+          priority: item.url === '/' ? 1.0 : 0.8
+        }
+      })
+    }
+  }
 });
