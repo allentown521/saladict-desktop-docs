@@ -22,15 +22,15 @@ export default {
     const { frontmatter } = useData();
     const route = useRoute();
     giscusTalk({
-      repo: 'allentown521/saladict',
-      repoId: 'R_kgDOJCp3Ww',
+      repo: 'allentown521/saladict-desktop-docs',
+      repoId: 'R_kgDONlQVOw',
       category: 'General',
-      categoryId: 'DIC_kwDOJCp3W84CUrQN',
+      categoryId: 'DIC_kwDONlQVO84ClsL1',
       mapping: 'title',
       inputPosition: 'top',
       lang: 'zh-CN',
-      lightTheme: 'https://pot-app.com/styles/giscus_light.css',
-      darkTheme: 'https://pot-app.com/styles/giscus_dark.css'
+      lightTheme: 'https://saladict-app.aichatone.com/styles/giscus_light.css',
+      darkTheme: 'https://saladict-app.aichatone.com/styles/giscus_dark.css'
     }, {
       frontmatter, route
     },

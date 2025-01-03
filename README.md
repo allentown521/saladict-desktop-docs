@@ -1,6 +1,6 @@
 # 📄️Saladict App 官网&文档
 
-## [pot-app.com](https://pot-app.com)
+## [saladict-app.aichatone.com](https://saladict-app.aichatone.com)
 
 ## 文档结构
 

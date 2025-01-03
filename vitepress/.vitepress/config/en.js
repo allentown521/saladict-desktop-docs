@@ -1,4 +1,4 @@
-export const META_URL = "https://pot-app.com/en/";
+export const META_URL = "https://saladict-app.aichatone.com/en/";
 export const META_TITLE = "Saladict";
 export const META_KEYWORDS = "Translation, OCR, Text Recognition, TTS, Speech Synthesis, Saladict Translation Software, Cross-platform Translation Tool, OCR Text Recognition, Text Selection Translation, Screenshot Translation, Multi-engine Translation, AI Translation, ChatGPT, Offline Translation, Text Translation, Google Translate, Papago, Free Translation Software, OpenAI, Zhipu AI, Gemini, Ollama, Alibaba Translation, Baidu Translation, Caiyun Translation, Tencent Translator, Tencent Interactive Translation, Volcano Translation, Niutrans, Google Translate, Bing Translator, DeepL, Youdao Translation, Cambridge Dictionary, Yandex, Lingva, Tatoeba, ECDICT";
 export const META_DESCRIPTION = "Saladict is a powerful cross-platform text selection translation and OCR software that supports multiple translation engines including DeepL, OpenAI, and Google Translate. It features text selection translation, screenshot translation, text recognition, and text-to-speech synthesis. With its clean interface design and quick operation, it will be your ultimate translation software. Supporting offline translation to ensure privacy and security, Saladict makes cross-language communication more convenient.";
@@ -24,7 +24,7 @@ export const enConfig = {
       { text: "Guide", link: "/en/docs/", activeMatch: "/en/docs/" },
       { text: "Download", link: "/en/download" },
       { text: "Plugin List", link: "/en/plugin" },
-      { text: "Service Status", link: "https://status.pot-app.com" },
+      { text: "Service Status", link: "https://status.saladict-app.aichatone.com" },
       {
         text: "Community",
         items: [
@@ -32,7 +32,7 @@ export const enConfig = {
           { text: "Matrix", link: "https://matrix.to/#/#pot-app:matrix.org" },
           { text: "QQ Channel", link: "https://pd.qq.com/s/akns94e1r" },
           { text: "QQ Group", link: "/img/qq_group.png" },
-          { text: "Email", link: "mailto:support@pot-app.com" },
+          { text: "Email", link: "mailto:support@saladict-app.aichatone.com" },
         ],
       },
       { text: "About", link: "/en/about" },

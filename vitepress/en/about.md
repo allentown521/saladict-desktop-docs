@@ -17,7 +17,7 @@ const members = [
     title: 'Creator',
     links: [
       { icon: 'github', link: 'https://github.com/Pylogmon' },
-      { icon: {svg: emailIcon }, link:'mailto:pylogmon@pot-app.com' },
+      { icon: {svg: emailIcon }, link:'mailto:pylogmon@saladict-app.aichatone.com' },
       { icon: {svg: moneyIcon }, link:'https://ko-fi.com/pylogmon' }
     ]
   },
@@ -27,7 +27,7 @@ const members = [
     title: 'Member',
     links: [
       { icon: 'github', link: 'https://github.com/ccslykx' },
-      { icon: {svg: emailIcon }, link:'mailto:ccslykx@pot-app.com' }
+      { icon: {svg: emailIcon }, link:'mailto:ccslykx@saladict-app.aichatone.com' }
     ]
   },
   {
@@ -36,7 +36,7 @@ const members = [
     title: 'Member',
     links: [
       { icon: 'github', link: 'https://github.com/xtyuns' },
-      { icon: {svg: emailIcon }, link:'mailto:xtyuns@pot-app.com' }
+      { icon: {svg: emailIcon }, link:'mailto:xtyuns@saladict-app.aichatone.com' }
     ]
   },
   {
@@ -45,7 +45,7 @@ const members = [
     title: 'Member',
     links: [
       { icon: 'github', link: 'https://github.com/Layouwen' },
-      { icon: {svg: emailIcon }, link:'mailto:avan@pot-app.com' }
+      { icon: {svg: emailIcon }, link:'mailto:avan@saladict-app.aichatone.com' }
     ]
   },
   {
@@ -54,7 +54,7 @@ const members = [
     title: 'Member',
     links: [
       { icon: 'github', link: 'https://github.com/Integral-Tech' },
-      { icon: {svg: emailIcon }, link:'mailto:integral@pot-app.com' }
+      { icon: {svg: emailIcon }, link:'mailto:integral@saladict-app.aichatone.com' }
     ]
   }
 ]
