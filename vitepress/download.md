@@ -25,6 +25,10 @@ const download = (arch,ext)=>{
 <div :class="$style.wrap">
     <div :class="$style.download">
         <div :class="$style.platform">
+            <div :class="$style.platformHeader">
+                <img src="/logo/windows.svg" :class="$style.platformIcon" alt="Windows" />
+                <h2 :class="$style.platformTitle">Windows</h2>
+            </div>
             <button :class="$style.button" @click="download('x64','exe')">
                 Windows x64
                 <Badge type="warning" text=".exe" />
@@ -39,6 +43,10 @@ const download = (arch,ext)=>{
             </button>
         </div>
         <div :class="$style.platform">
+            <div :class="$style.platformHeader">
+                <img src="/logo/apple.svg" :class="$style.platformIcon" alt="MacOS" />
+                <h2 :class="$style.platformTitle">MacOS</h2>
+            </div>
             <button :class="$style.button" @click="download('x64','dmg')">
                 MacOS x64
                 <Badge type="warning" text=".dmg" />
@@ -49,6 +57,10 @@ const download = (arch,ext)=>{
             </button>
         </div>
         <div :class="$style.platform">
+            <div :class="$style.platformHeader">
+                <img src="/logo/linux.svg" :class="$style.platformIcon" alt="Linux" />
+                <h2 :class="$style.platformTitle">Linux</h2>
+            </div>
             <button :class="$style.button" @click="download('amd64','deb')">
                 Linux x64
                 <Badge type="warning" text=".deb" />
@@ -82,7 +94,6 @@ const download = (arch,ext)=>{
 </div>
 
 <style module>
-
 .warn {
     width: 80%;
     margin: 0 auto;
@@ -97,44 +108,79 @@ const download = (arch,ext)=>{
     color: #ffc131;
 }
 
-.info {
-width: 60%;
-margin: 50px auto;
-padding: 10px;
-font-weight: bold;
-font-size: 20px;
-background-color: #ffc13140;
-border-radius: 4px;
-}
-
 .wrap {
-display: flex;
-width: 100%;
-justify-content: center;
+    display: flex;
+    width: 100%;
+    justify-content: center;
 }
 
 .download {
-display: grid;
-grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-grid-column-gap: 20px;
-width: 80%;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    grid-column-gap: 20px;
+    width: 80%;
 }
 
 .platform {
-display: flex;
-flex-direction: column;
-justify-content: space-around;
+    display: flex;
+    flex-direction: column;
+    background-color: var(--vp-c-bg-soft);
+    border: 2px solid var(--vp-c-divider);
+    border-radius: 12px;
+    padding: 24px;
+    margin-bottom: 20px;
+    position: relative;
+    padding-top: 84px;
+}
+
+.platformHeader {
+    position: absolute;
+    top: 24px;
+    left: 24px;
+    right: 24px;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding-bottom: 16px;
+    border-bottom: 2px solid var(--vp-c-divider);
+    height: 48px;
+}
+
+.platformIcon {
+    width: 48px;
+    height: 48px;
+}
+
+.platformTitle {
+    margin: 0;
+    font-size: 24px;
+    font-weight: 600;
+    color: var(--vp-c-text-1);
+    line-height: 48px;
 }
 
 .button {
-min-width: 250px;
-width: 100%;
-height: 50px;
-padding: 10px;
-margin-bottom: 20px;
-font-weight: bold;
-font-size: 20px;
-background-color: #288ae2;
-border-radius: 6px;
+    min-width: 250px;
+    width: 100%;
+    height: 50px;
+    padding: 10px;
+    margin-bottom: 20px;
+    font-weight: bold;
+    font-size: 20px;
+    background-color: #288ae2;
+    border-radius: 6px;
+    border: none;
+    color: white;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    transition: all 0.2s ease;
+}
+
+.button:hover {
+    background-color: #2076c3;
+    transform: translateY(-1px);
 }
 </style>

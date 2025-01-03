@@ -100,7 +100,7 @@ titleTemplate: FAQ
   If you cannot find the above options in `Privacy & Security`, or get error prompts such as broken files with Apple Silicon machines. Open `Terminal.app` and enter the following command (you may need to enter a password halfway through), then restart pot:
 
   ```bash
-  sudo xattr -d com.apple.quarantine /Applications/pot.app
+  sudo xattr -d com.apple.quarantine /Applications/Saladict.app
   ```
 
 :::

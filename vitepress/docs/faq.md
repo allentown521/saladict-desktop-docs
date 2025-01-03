@@ -101,7 +101,7 @@ titleTemplate: 常见问题
   如果在 `隐私与安全性` 中找不到以上选项，或启动时提示文件损坏。打开 `Terminal.app`，并输入以下命令，然后重启 pot 即可：
 
   ```bash
-  sudo xattr -d com.apple.quarantine /Applications/pot.app
+  sudo xattr -d com.apple.quarantine /Applications/Saladict.app
   ```
 
 :::

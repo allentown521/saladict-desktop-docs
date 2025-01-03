@@ -3,6 +3,11 @@ export const META_TITLE = "Saladict";
 export const META_KEYWORDS = "Translation, OCR, Text Recognition, TTS, Speech Synthesis, Saladict Translation Software, Cross-platform Translation Tool, OCR Text Recognition, Text Selection Translation, Screenshot Translation, Multi-engine Translation, AI Translation, ChatGPT, Offline Translation, Text Translation, Google Translate, Papago, Free Translation Software, OpenAI, Zhipu AI, Gemini, Ollama, Alibaba Translation, Baidu Translation, Caiyun Translation, Tencent Translator, Tencent Interactive Translation, Volcano Translation, Niutrans, Google Translate, Bing Translator, DeepL, Youdao Translation, Cambridge Dictionary, Yandex, Lingva, Tatoeba, ECDICT";
 export const META_DESCRIPTION = "Saladict is a powerful cross-platform text selection translation and OCR software that supports multiple translation engines including DeepL, OpenAI, and Google Translate. It features text selection translation, screenshot translation, text recognition, and text-to-speech synthesis. With its clean interface design and quick operation, it will be your ultimate translation software. Supporting offline translation to ensure privacy and security, Saladict makes cross-language communication more convenient.";
 
+import { loadEnv } from 'vitepress'
+
+const env = loadEnv('', process.cwd())
+const UMAMI_ID = env.VITE_UMAMI_DATA_WEBSITE_ID
+
 export const enConfig = {
   description: META_DESCRIPTION,
   head: [
@@ -16,6 +21,7 @@ export const enConfig = {
     ["meta", { property: "twitter:title", content: META_TITLE }],
     ["meta", { property: "twitter:keywords", content: META_KEYWORDS }],
     ["meta", { property: "twitter:description", content: META_DESCRIPTION }],
+    ["script", { async: "", src: "https://umami.aichatone.com/script.js", 'data-website-id': UMAMI_ID }],
   ],
   themeConfig: {
     siteTitle: "Saladict",

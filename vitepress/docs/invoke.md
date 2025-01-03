@@ -66,7 +66,7 @@ rm ~/.cache/com.pot-app.desktop/pot_screenshot_cut.png && flameshot gui -s -p ~/
 ### SnipDo (Windows)
 
 1. 从 [Microsoft Store](https://apps.microsoft.com/store/detail/snipdo/9NPZ2TVKJVT7) 下载安装 SnipDo。
-2. 从 [Release](https://github.com/allentown521/saladict/releases/latest) 下载 pot 的 SnipDo 扩展 (pot.pbar)
+2. 从 [Release](https://github.com/allentown521/saladict/releases/latest) 下载 pot 的 SnipDo 扩展 (Saladict.pbar)
 3. 双击下载的扩展文件完成安装。
 4. 选中文字，可以看到弹出的 SnipDo 工具条，点击翻译按钮即可翻译。
 
