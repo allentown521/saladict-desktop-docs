@@ -12,6 +12,9 @@ export const zhConfig = {
   description: META_DESCRIPTION,
   head: [
     ["meta", { name: "keywords", content: META_KEYWORDS }],
+    ["link", { rel: "alternate", hreflang: "zh", href: "https://saladict-app.aichatone.com/" }],
+    ["link", { rel: "alternate", hreflang: "en", href: "https://saladict-app.aichatone.com/en/" }],
+    ["link", { rel: "alternate", hreflang: "x-default", href: "https://saladict-app.aichatone.com/" }],
     ["meta", { name: "description", content: META_DESCRIPTION }],
     ["meta", { property: "og:url", content: META_URL }],
     ["meta", { property: "og:image", content: "/img/pot-social-card.png" }],
