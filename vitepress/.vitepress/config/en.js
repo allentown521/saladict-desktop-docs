@@ -147,7 +147,7 @@ export const enConfig = {
       ],
     },
     footer: {
-      message: "Released under the <a href='https://github.com/allentown521/saladict/blob/master/LICENSE' target='_blank'><b>GPL-3.0</b></a> License<br/>Copyright © 2023-present <a href='https://github.com/pot-app' target='_blank'><b>Saladict-App</b></a>"
+      message: `Released under the <a href='https://github.com/allentown521/saladict/blob/master/LICENSE' target='_blank'><b>GPL-3.0</b></a> License<br/>Copyright © ${new Date().getFullYear()}-present <a href='https://saladict.aichatone.com' target='_blank'><b>Saladict</b></a>`
     },
     editLink: {
       pattern:

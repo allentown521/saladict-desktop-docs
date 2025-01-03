@@ -138,7 +138,7 @@ export const zhConfig = {
       ],
     },
     footer: {
-      message: "基于<a href='https://github.com/allentown521/saladict/blob/master/LICENSE' target='_blank'><b>GPL-3.0</b></a>开源协议发布<br/>Copyright © 2023-present <a href='https://github.com/pot-app' target='_blank'><b>Saladict-App</b></a>"
+      message: `基于<a href='https://github.com/allentown521/saladict/blob/master/LICENSE' target='_blank'><b>GPL-3.0</b></a>开源协议发布<br/>Copyright © ${new Date().getFullYear()}-present <a href='https://saladict.aichatone.com' target='_blank'><b>沙拉翻译</b></a>`
     },
     editLink: {
       pattern:
