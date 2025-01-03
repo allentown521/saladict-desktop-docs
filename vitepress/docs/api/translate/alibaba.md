@@ -1,5 +1,5 @@
 ---
-title: Pot
+title: Saladict
 titleTemplate: 阿里翻译
 ---
 

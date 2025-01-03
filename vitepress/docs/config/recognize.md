@@ -1,5 +1,5 @@
 ---
-title: Pot
+title: Saladict
 titleTemplate: 文字识别设置
 ---
 

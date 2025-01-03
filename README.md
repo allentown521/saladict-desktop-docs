@@ -1,4 +1,4 @@
-# 📄️Pot App 官网&文档
+# 📄️Saladict App 官网&文档
 
 ## [pot-app.com](https://pot-app.com)
 

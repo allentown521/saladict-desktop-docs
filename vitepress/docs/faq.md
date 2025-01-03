@@ -1,5 +1,5 @@
 ---
-title: Pot
+title: Saladict
 titleTemplate: 常见问题
 ---
 
@@ -11,15 +11,15 @@ titleTemplate: 常见问题
 
 - 原因
 
-  Pot始终使用最新版Rust编译，现已不再支持 Windows 7 系统
+  Saladict始终使用最新版Rust编译，现已不再支持 Windows 7 系统
 
 - 解决方案
 
   借助 [i486/VxKex](https://github.com/i486/VxKex) 项目运行，步骤：
   1. 在 [Releases](https://github.com/i486/VxKex/releases) 下载 `KexSetup_Release_x_x_x_xxxx.exe` 并安装
-  2. 进入 Pot 安装目录，右键 `pot.exe` 打开属性
+  2. 进入 Saladict 安装目录，右键 `pot.exe` 打开属性
   3. 找到 `VxKex` 选项卡，勾选 `Enable VxKex for this program` 及 `Disable VxKex for child processes` 选项，点击应用。
-  4. 然后即可正常使用 Pot
+  4. 然后即可正常使用 Saladict
 :::
 
 ## 被杀毒软件删除
@@ -80,7 +80,7 @@ titleTemplate: 常见问题
 
 - 解决方案
 
-  如果遇到 `段错误` 或 Pot 无法启动的情况，请尝试在 `/etc/environment` （或者其他设置环境变量的地方）中加入 `WEBKIT_DISABLE_DMABUF_RENDERER=1` 环境变量关闭 DMABUF 的使用。
+  如果遇到 `段错误` 或 Saladict 无法启动的情况，请尝试在 `/etc/environment` （或者其他设置环境变量的地方）中加入 `WEBKIT_DISABLE_DMABUF_RENDERER=1` 环境变量关闭 DMABUF 的使用。
 
 :::
 

@@ -1,7 +1,7 @@
 export const META_URL = "https://pot-app.com/en/";
-export const META_TITLE = "Pot";
-export const META_KEYWORDS = "Translation, OCR, Text Recognition, TTS, Speech Synthesis, Pot Translation Software, Cross-platform Translation Tool, OCR Text Recognition, Text Selection Translation, Screenshot Translation, Multi-engine Translation, AI Translation, ChatGPT, Offline Translation, Text Translation, Google Translate, Papago, Free Translation Software, OpenAI, Zhipu AI, Gemini, Ollama, Alibaba Translation, Baidu Translation, Caiyun Translation, Tencent Translator, Tencent Interactive Translation, Volcano Translation, Niutrans, Google Translate, Bing Translator, DeepL, Youdao Translation, Cambridge Dictionary, Yandex, Lingva, Tatoeba, ECDICT";
-export const META_DESCRIPTION = "Pot is a powerful cross-platform text selection translation and OCR software that supports multiple translation engines including DeepL, OpenAI, and Google Translate. It features text selection translation, screenshot translation, text recognition, and text-to-speech synthesis. With its clean interface design and quick operation, it will be your ultimate translation software. Supporting offline translation to ensure privacy and security, Pot makes cross-language communication more convenient.";
+export const META_TITLE = "Saladict";
+export const META_KEYWORDS = "Translation, OCR, Text Recognition, TTS, Speech Synthesis, Saladict Translation Software, Cross-platform Translation Tool, OCR Text Recognition, Text Selection Translation, Screenshot Translation, Multi-engine Translation, AI Translation, ChatGPT, Offline Translation, Text Translation, Google Translate, Papago, Free Translation Software, OpenAI, Zhipu AI, Gemini, Ollama, Alibaba Translation, Baidu Translation, Caiyun Translation, Tencent Translator, Tencent Interactive Translation, Volcano Translation, Niutrans, Google Translate, Bing Translator, DeepL, Youdao Translation, Cambridge Dictionary, Yandex, Lingva, Tatoeba, ECDICT";
+export const META_DESCRIPTION = "Saladict is a powerful cross-platform text selection translation and OCR software that supports multiple translation engines including DeepL, OpenAI, and Google Translate. It features text selection translation, screenshot translation, text recognition, and text-to-speech synthesis. With its clean interface design and quick operation, it will be your ultimate translation software. Supporting offline translation to ensure privacy and security, Saladict makes cross-language communication more convenient.";
 
 export const enConfig = {
   description: META_DESCRIPTION,
@@ -18,6 +18,7 @@ export const enConfig = {
     ["meta", { property: "twitter:description", content: META_DESCRIPTION }],
   ],
   themeConfig: {
+    siteTitle: "Saladict",
     nav: [
       { text: "AiHubMix", link: "/en/ads/aihubmix", activeMatch: "/en/ads/" },
       { text: "Guide", link: "/en/docs/", activeMatch: "/en/docs/" },
@@ -146,7 +147,7 @@ export const enConfig = {
       ],
     },
     footer: {
-      message: "Released under the <a href='https://github.com/pot-app/pot-desktop/blob/master/LICENSE' target='_blank'><b>GPL-3.0</b></a> License<br/>Copyright © 2023-present <a href='https://github.com/pot-app' target='_blank'><b>Pot-App</b></a>"
+      message: "Released under the <a href='https://github.com/pot-app/pot-desktop/blob/master/LICENSE' target='_blank'><b>GPL-3.0</b></a> License<br/>Copyright © 2023-present <a href='https://github.com/pot-app' target='_blank'><b>Saladict-App</b></a>"
     },
     editLink: {
       pattern:

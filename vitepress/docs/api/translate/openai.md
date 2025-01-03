@@ -1,5 +1,5 @@
 ---
-title: Pot
+title: Saladict
 titleTemplate: OpenAI
 ---
 

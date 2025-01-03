@@ -2,11 +2,11 @@
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home
 
-title: Pot
+title: Saladict
 titleTemplate: Translation & OCR
 
 hero:
-  name: Pot
+  name: Saladict
   text: Translation & OCR
   tagline: Your last translation software
   image: /logo/icon.svg

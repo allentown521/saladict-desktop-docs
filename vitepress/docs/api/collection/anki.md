@@ -1,5 +1,5 @@
 ---
-title: Pot
+title: Saladict
 titleTemplate: Anki
 ---
 
@@ -26,9 +26,9 @@ titleTemplate: Anki
 3. 填入 `Minimize to tray` 插件 id `85158043`，确认后安装
 4. 重启 Anki 客户端生效
 
-## 在 Pot 中启用 Anki 支持
+## 在 Saladict 中启用 Anki 支持
 
-1. Pot-偏好设置-服务设置-生词本-添加内置服务-Anki-填入默认的端口号 `8765`，确认后保存
+1. Saladict-偏好设置-服务设置-生词本-添加内置服务-Anki-填入默认的端口号 `8765`，确认后保存
 
 配置完成之后，翻译面板会出现添加到 Anki 图标，点击即可将本次翻译内容添加到 Anki。
 

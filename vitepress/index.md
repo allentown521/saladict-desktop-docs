@@ -2,11 +2,11 @@
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home
 
-title: Pot
+title: 沙拉翻译
 titleTemplate: 跨平台划词翻译和OCR
 
 hero:
-  name: Pot
+  name: 沙拉翻译
   text: 跨平台划词翻译和OCR
   tagline: 您的最后一款翻译软件
   image: /logo/icon.svg

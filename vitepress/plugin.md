@@ -1,5 +1,5 @@
 ---
-title: Pot
+title: Saladict
 titleTemplate: 插件列表
 layout: doc
 editLink: false
@@ -21,7 +21,7 @@ const illegal = "https://img.shields.io/badge/illegal-grey"
 
 # 插件列表
 
-来自社区的 Pot App 插件列表
+来自社区的 Saladict App 插件列表
 
 <img style="display:inline" :src="offical"/> 表示该插件为 <b>官方维护</b> 的插件
 <br/>

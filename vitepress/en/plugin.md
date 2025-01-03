@@ -1,5 +1,5 @@
 ---
-title: Pot
+title: Saladict
 titleTemplate: Plugin List
 layout: doc
 editLink: false
@@ -19,7 +19,7 @@ const illegal = "https://img.shields.io/badge/illegal-grey"
 
 # Plugin List
 
-Pot app plugin collection from the community
+Saladict app plugin collection from the community
 
 <img style="display:inline" :src="offical"/> This plugin is <b>officially maintained</b>
 <br/>

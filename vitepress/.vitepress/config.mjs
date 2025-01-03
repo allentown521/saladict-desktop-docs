@@ -4,13 +4,13 @@ import { zhConfig } from "./config/zh";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Pot",
+  title: "Saladict",
   head: [
     ["link", { rel: "icon", type: "image/x-icon", href: "/favicon.ico" }],
   ],
   themeConfig: {
     logo: "/logo/icon.svg",
-    siteTitle: "Pot",
+    siteTitle: "Saladict",
     // https://vitepress.dev/reference/default-theme-config
     search: {
       provider: "local",

@@ -1,11 +1,11 @@
 ---
-title: Pot
+title: Saladict
 titleTemplate: External Calls
 ---
 
 # External Calls
 
-Pot provides a complete HTTP interface for integration with other software. You can call pot by sending HTTP requests to `127.0.0.1:port`, where `port` is the listening port of pot, default to `60828`, and can be changed in the app settings.
+Saladict provides a complete HTTP interface for integration with other software. You can call pot by sending HTTP requests to `127.0.0.1:port`, where `port` is the listening port of pot, default to `60828`, and can be changed in the app settings.
 
 ## API Docs:
 

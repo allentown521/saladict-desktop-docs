@@ -1,5 +1,5 @@
 ---
-title: Pot
+title: Saladict
 titleTemplate: All in One AI API Service——AiHubMix
 layout: doc
 editLink: false
@@ -21,4 +21,4 @@ It's recommended to use AIHUBMIX's API key. Seamlessly access a wide range of le
 
 4. Once you have the key, you can use it in various software that supports the OpenAI API.
 
-5. For detailed usage tutorials in pot, see [Pot-AiHubMix](/en/docs/api/translate/openai.html#aihubmix).
+5. For detailed usage tutorials in pot, see [Saladict-AiHubMix](/en/docs/api/translate/openai.html#aihubmix).
