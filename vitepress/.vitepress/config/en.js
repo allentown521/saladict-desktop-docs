@@ -37,11 +37,8 @@ export const enConfig = {
       {
         text: "Community",
         items: [
-          { text: "Telegram", link: "https://t.me/pot_app" },
-          { text: "Matrix", link: "https://matrix.to/#/#pot-app:matrix.org" },
-          { text: "QQ Channel", link: "https://pd.qq.com/s/akns94e1r" },
-          { text: "QQ Group", link: "/img/qq_group.png" },
-          { text: "Email", link: "mailto:support@saladict-app.aichatone.com" },
+          { text: "Github Discussions", link: "https://github.com/allentown521/saladict/discussions" },
+          { text: "Email", link: "mailto:product@aichatone.com" },
         ],
       },
       { text: "About", link: "/en/about" },

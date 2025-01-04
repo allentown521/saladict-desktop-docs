@@ -4,3 +4,4 @@ node_modules/
 .env
 dist/
 publish.md
+.DS_Store

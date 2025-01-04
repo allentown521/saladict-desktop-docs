@@ -1,7 +1,7 @@
 export const META_URL = "https://saladict-app.aichatone.com";
-export const META_TITLE = "Saladict";
+export const META_TITLE = "沙拉翻译";
 export const META_KEYWORDS = "翻译,OCR,文字识别,TTS,语音合成,Saladict翻译软件,跨平台翻译工具,OCR文字识别,划词翻译,截图翻译,多引擎翻译,AI翻译,ChatGPT,离线翻译,文本翻译,谷歌翻译,Papago,免费翻译软件,OpenAI,智谱 AI,Gemini,Ollama,阿里翻译,百度翻译,彩云小译,腾讯翻译君,腾讯交互翻译,火山翻译,小牛翻译,Google翻译,Bing翻译,DeepL,有道翻译,剑桥词典,Yandex,Lingva,Tatoeba,ECDICT"
-export const META_DESCRIPTION = "Saladict是一款强大的跨平台划词翻译和OCR软件，支持DeepL、OpenAI、谷歌翻译等多个翻译引擎，具备划词翻译、截图翻译、文字识别、语音合成朗读等功能。简洁的界面设计，快捷的操作方式，是您的最后一款翻译软件。支持离线翻译，确保隐私安全，让跨语言交流更加便捷。";
+export const META_DESCRIPTION = "沙拉翻译是一款强大的跨平台划词翻译和OCR软件，支持DeepL、OpenAI、谷歌翻译等多个翻译引擎，具备划词翻译、截图翻译、文字识别、语音合成朗读等功能。简洁的界面设计，快捷的操作方式，是您的最后一款翻译软件。支持离线翻译，确保隐私安全，让跨语言交流更加便捷。";
 
 import { loadEnv } from 'vitepress'
 
@@ -27,21 +27,17 @@ export const zhConfig = {
     ["script", { async: "", src: "https://umami.aichatone.com/script.js", 'data-website-id': UMAMI_ID }],
   ],
   themeConfig: {
-    siteTitle: "沙拉查词",
+    siteTitle: "沙拉翻译",
     nav: [
       { text: "AiHubMix", link: "/ads/aihubmix", activeMatch: "/ads/" },
       { text: "使用指南", link: "/docs/", activeMatch: "/docs/" },
       { text: "下载", link: "/download" },
       { text: "插件列表", link: "/plugin" },
-      { text: "服务状态", link: "https://status.saladict-app.aichatone.com" },
       {
         text: "社区交流",
         items: [
-          { text: "Telegram", link: "https://t.me/pot_app" },
-          { text: "Matrix", link: "https://matrix.to/#/#pot-app:matrix.org" },
-          { text: "QQ频道", link: "https://pd.qq.com/s/akns94e1r" },
-          { text: "QQ群组", link: "/img/qq_group.png" },
-          { text: "电子邮件", link: "mailto:support@saladict-app.aichatone.com" },
+          { text: "Github 讨论", link: "https://github.com/allentown521/saladict/discussions" },
+          { text: "电子邮件", link: "mailto:product@aichatone.com" },
         ],
       },
       { text: "关于", link: "/about" },

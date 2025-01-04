@@ -18,6 +18,9 @@ const download = (arch,ext)=>{
         open(`https://github.com/allentown521/saladict/releases/download/${version}/Saladict_${version}_${arch}.${ext}`)
     }
 }
+const downloadExtension = (src)=>{
+    open(src)
+}
 </script>
 
 <h1 :class="$style.version">{{version}}</h1>
@@ -80,6 +83,18 @@ const download = (arch,ext)=>{
             <button :class="$style.button" @click="download('amd64','AppImage')">
                 Linux x64
                 <Badge type="warning" text=".AppImage" />
+            </button>
+        </div>
+        <div :class="$style.platform">
+            <div :class="$style.platformHeader">
+                <img src="/logo/chrome.svg" :class="$style.platformIcon" alt="Chrome" />
+                <h2 :class="$style.platformTitle">Browser Extension</h2>
+            </div>
+            <button :class="$style.button" @click="downloadExtension('https://chromewebstore.google.com/detail/kmmcnncdadfmbjkoloakclhfllocaeap')">
+                Chrome Web Store
+            </button>
+            <button :class="$style.button" @click="downloadExtension('https://microsoftedge.microsoft.com/addons/detail/nbjafifpcicckddoajdgbknjlkdjjpel')">
+                Edge Add-ons
             </button>
         </div>
     </div>
