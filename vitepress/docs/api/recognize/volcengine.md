@@ -1,5 +1,5 @@
 ---
-title: Saladict
+title: 沙拉翻译
 titleTemplate: 火山 OCR
 ---
 

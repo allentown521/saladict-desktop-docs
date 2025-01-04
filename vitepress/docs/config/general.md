@@ -1,5 +1,5 @@
 ---
-title: Saladict
+title: 沙拉翻译
 titleTemplate: 常规设置
 ---
 
@@ -7,7 +7,7 @@ titleTemplate: 常规设置
 
 ## 开机启动
 
-开机时自动启动 Saladict，如果出现无法自动启动的问题请尝试关闭后重新设置。
+开机时自动启动 沙拉翻译
 
 ## 启动时检查更新
 
@@ -15,13 +15,13 @@ titleTemplate: 常规设置
 
 ## 监听端口
 
-控制Saladict监听的端口，默认为`60828`,此功能仅用于[外部调用](/docs/invoke.html)
+控制沙拉翻译监听的端口，默认为`60828`,此功能仅用于[外部调用](/docs/invoke.html)
 
-若使用Saladict提供的`SnipDo`或`PopClip`插件，请勿更改此项设置。
+若使用沙拉翻译提供的`SnipDo`或`PopClip`插件，请勿更改此项设置。
 
 ## 应用语言
 
-更改应用界面显示语言，帮助Saladict完善翻译请访问[Weblate](https://hosted.weblate.org/engage/pot-app/)
+更改应用界面显示语言，帮助沙拉翻译完善翻译请访问[Weblate](https://hosted.weblate.org/engage/pot-app/)
 
 ## 应用主题
 

@@ -73,7 +73,7 @@ rm ~/.cache/com.pot-app.desktop/pot_screenshot_cut.png && flameshot gui -s -p ~/
 ### PopClip (MacOS)
 
 1. Download and install PopClip in the [App Store](https://apps.apple.com/us/app/popclip/id445189367?mt=12)
-2. Download the PopClip extension of pot from the Latest [Release](https://github.com/allentown521/saladict/releases/latest) (pot.popclipextz)
+2. Download the PopClip extension of pot from the Latest [Release](https://github.com/allentown521/saladict/releases/latest) (Saladict.popclipextz)
 3. Double click the downloaded file to install it.
 4. Enable the pot extension in PopClip settings, and then you can translate by selecting text.
 

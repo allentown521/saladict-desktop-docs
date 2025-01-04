@@ -1,5 +1,5 @@
 ---
-title: Saladict
+title: 沙拉翻译
 titleTemplate: 关于
 layout: doc
 editLink: false

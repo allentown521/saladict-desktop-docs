@@ -1,5 +1,5 @@
 ---
-title: Saladict
+title: 沙拉翻译
 titleTemplate: OpenAI API代理服务——AiHubMix
 layout: doc
 editLink: false
@@ -33,4 +33,4 @@ AiHubMix 支持了几乎所有常见的大语言模型，OpenAI,Google,阿里通
 2. 点击 `顶部导航栏-充值` ,购买代理APIkey并兑换额度
 3. 购买完成后点击 `顶部导航栏-令牌-创建令牌`
 4. 拿到密钥之后即可在各种支持OpenAI API的各种软件中使用
-5. 在pot中的详细使用教程见[Saladict-AiHubMix](/docs/api/translate/openai.html#aihubmix)
+5. 在pot中的详细使用教程见[AiHubMix](/docs/api/translate/openai.html#aihubmix)

@@ -1,5 +1,5 @@
 ---
-title: Saladict
+title: 沙拉翻译
 titleTemplate: 常见问题
 ---
 
@@ -11,15 +11,15 @@ titleTemplate: 常见问题
 
 - 原因
 
-  Saladict始终使用最新版Rust编译，现已不再支持 Windows 7 系统
+  沙拉翻译始终使用最新版Rust编译，现已不再支持 Windows 7 系统
 
 - 解决方案
 
   借助 [i486/VxKex](https://github.com/i486/VxKex) 项目运行，步骤：
   1. 在 [Releases](https://github.com/i486/VxKex/releases) 下载 `KexSetup_Release_x_x_x_xxxx.exe` 并安装
-  2. 进入 Saladict 安装目录，右键 `pot.exe` 打开属性
+  2. 进入 沙拉翻译 安装目录，右键 `Saladict.exe` 打开属性
   3. 找到 `VxKex` 选项卡，勾选 `Enable VxKex for this program` 及 `Disable VxKex for child processes` 选项，点击应用。
-  4. 然后即可正常使用 Saladict
+  4. 然后即可正常使用 沙拉翻译
 :::
 
 ## 被杀毒软件删除
@@ -50,7 +50,7 @@ titleTemplate: 常见问题
 
   如果是卸载了 WebView2，可以在微软官网下载安装包重新安装 WebView2。
 
-  如果是企业版系统不方便安装或无法安装 WebView2，请尝试在 [Release](https://github.com/allentown521/saladict/releases/latest) 下载内置 WebView2 的版本 `pot_{version}_{arch}_fix_webview2_runtime-setup.exe`
+  如果是企业版系统不方便安装或无法安装 WebView2，请尝试在 [Release](https://github.com/allentown521/沙拉翻译/releases/latest) 下载内置 WebView2 的版本 `pot_{version}_{arch}_fix_webview2_runtime-setup.exe`
 
   若问题仍然存在请尝试使用 Windows7 兼容模式启动。
 
@@ -80,7 +80,7 @@ titleTemplate: 常见问题
 
 - 解决方案
 
-  如果遇到 `段错误` 或 Saladict 无法启动的情况，请尝试在 `/etc/environment` （或者其他设置环境变量的地方）中加入 `WEBKIT_DISABLE_DMABUF_RENDERER=1` 环境变量关闭 DMABUF 的使用。
+  如果遇到 `段错误` 或 沙拉翻译 无法启动的情况，请尝试在 `/etc/environment` （或者其他设置环境变量的地方）中加入 `WEBKIT_DISABLE_DMABUF_RENDERER=1` 环境变量关闭 DMABUF 的使用。
 
 :::
 

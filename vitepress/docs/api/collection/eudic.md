@@ -1,5 +1,5 @@
 ---
-title: Saladict
+title: 沙拉翻译
 titleTemplate: 欧路词典
 ---
 
@@ -21,9 +21,9 @@ titleTemplate: 欧路词典
 
 你可以置顶 pot 将将内容添加到哪个单词本，可以是不存在的单词本名称，pot 会自动创建新的单词本，默认名称为`pot`
 
-## 在 Saladict 中启用欧路词典生词本
+## 在 沙拉翻译 中启用欧路词典生词本
 
-1. Saladict-设置-应用设置-启用欧路词典生词本
+1. 沙拉翻译-设置-应用设置-启用欧路词典生词本
 
    ![](./asset/eudic2.png)
 

@@ -29,7 +29,7 @@ winget install Pylogmon.pot
 
 - "pot" can’t be opened because the developer cannot be verified.
 
-  Click the `Cancel` button, then go to the `Settings -> Privacy & Security` page, click the `Still Open` button, and then click the `Open` button in the pop-up window. After that, there will be no more pop-up warnings when opening pot.
+  Click the `Cancel` button, then go to the `Settings -> Privacy & Security` page, click the `Still Open` button, and then click the `Open` button in the pop-up window. After that, there will be no more pop-up warnings when opening Saladict.
 
 - If you cannot find the above options in `Privacy & Security`, or get error prompts such as broken files with Apple Silicon machines. Open `Terminal.app` and enter the following command (you may need to enter a password halfway through), then restart pot:
 

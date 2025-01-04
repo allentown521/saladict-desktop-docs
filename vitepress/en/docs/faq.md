@@ -18,7 +18,7 @@ titleTemplate: FAQ
   Run using the [vxiiduu/VxKex](https://github.com/vxiiduu/VxKex) project. Follow these steps:
   
   1. Download `KexSetup_Release_x_x_x_xxxx.exe` from [Releases](https://github.com/vxiiduu/VxKex/releases) and install it.
-  2. Navigate to the Saladict installation directory, right-click `pot.exe`, and open Properties.
+  2. Navigate to the Saladict installation directory, right-click `Saladict.exe`, and open Properties.
   3. Find the `VxKex` tab, check the options `Enable VxKex for this program` and `Disable VxKex for child processes`, then click Apply.
   4. You can now use Saladict normally.
 :::
@@ -95,7 +95,7 @@ titleTemplate: FAQ
 
 - Solution
 
-  Click the `Cancel` button, then go to the `Settings -> Privacy & Security` page, click the `Still Open` button, and then click the `Open` button in the pop-up window. After that, there will be no more pop-up warnings when opening pot.
+  Click the `Cancel` button, then go to the `Settings -> Privacy & Security` page, click the `Still Open` button, and then click the `Open` button in the pop-up window. After that, there will be no more pop-up warnings when opening Saladict.
 
   If you cannot find the above options in `Privacy & Security`, or get error prompts such as broken files with Apple Silicon machines. Open `Terminal.app` and enter the following command (you may need to enter a password halfway through), then restart pot:
 

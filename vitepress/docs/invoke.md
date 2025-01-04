@@ -1,11 +1,11 @@
 ---
-title: Saladict
+title: 沙拉翻译
 titleTemplate: 外部调用
 ---
 
 # 外部调用
 
-Saladict 提供了完整的 HTTP 接口，以便可以被其他软件调用。您可以通过向 `127.0.0.1:port` 发送 HTTP 请求来调用 pot，其中的`port`是 pot 监听的端口号，默认为`60828`,可以在软件设置中进行更改。
+沙拉翻译 提供了完整的 HTTP 接口，以便可以被其他软件调用。您可以通过向 `127.0.0.1:port` 发送 HTTP 请求来调用 pot，其中的`port`是 pot 监听的端口号，默认为`60828`,可以在软件设置中进行更改。
 
 ## API 文档:
 
@@ -27,7 +27,7 @@ GET "/ocr_translate?screenshot=true" => 截图翻译,
 
 - 调用划词翻译：
 
-  如果想要调用 pot 划词翻译，只需向`127.0.0.1:port`发送请求即可。
+  如果想要调用 沙拉翻译 划词翻译，只需向`127.0.0.1:port`发送请求即可。
 
   例如通过 curl 发送请求：
 
@@ -66,16 +66,16 @@ rm ~/.cache/com.pot-app.desktop/pot_screenshot_cut.png && flameshot gui -s -p ~/
 ### SnipDo (Windows)
 
 1. 从 [Microsoft Store](https://apps.microsoft.com/store/detail/snipdo/9NPZ2TVKJVT7) 下载安装 SnipDo。
-2. 从 [Release](https://github.com/allentown521/saladict/releases/latest) 下载 pot 的 SnipDo 扩展 (Saladict.pbar)
+2. 从 [Release](https://github.com/allentown521/saladict/releases/latest) 下载 沙拉翻译 的 SnipDo 扩展 (Saladict.pbar)
 3. 双击下载的扩展文件完成安装。
 4. 选中文字，可以看到弹出的 SnipDo 工具条，点击翻译按钮即可翻译。
 
 ### PopClip (MacOS)
 
 1. 从 [App Store](https://apps.apple.com/us/app/popclip/id445189367?mt=12) 下载安装 PopClip
-2. 从 [Release](https://github.com/allentown521/saladict/releases/latest) 下载 pot 的 PopClip 扩展 (pot.popclipextz)
+2. 从 [Release](https://github.com/allentown521/saladict/releases/latest) 下载 沙拉翻译 的 PopClip 扩展 (Saladict.popclipextz)
 3. 双击下载的扩展文件完成安装。
-4. 在 PopClip 的扩展中启用 pot 扩展，选中文本即可点击翻译。
+4. 在 PopClip 的扩展中启用 沙拉翻译 扩展，选中文本即可点击翻译。
 
 ### Starry (Linux)
 

@@ -6,8 +6,6 @@ titleTemplate: OpenAI
 # OpenAI
 
 :::info
-教程来源于[划词翻译](https://hcfy.app/)，一个很棒的网页翻译插件
-
 文档内容可能会过时，请以 OpenAI 官网说明为准。
 :::
 
