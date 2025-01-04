@@ -33,7 +33,6 @@ export const enConfig = {
       { text: "Guide", link: "/en/docs/", activeMatch: "/en/docs/" },
       { text: "Download", link: "/en/download" },
       { text: "Plugin List", link: "/en/plugin" },
-      { text: "Service Status", link: "https://status.saladict-app.aichatone.com" },
       {
         text: "Community",
         items: [
