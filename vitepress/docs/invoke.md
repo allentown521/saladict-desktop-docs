@@ -42,11 +42,11 @@ GET "/ocr_translate?screenshot=true" => 截图翻译,
 ### 调用流程
 
 1. 使用其他截图工具截图
-2. 将截图保存在 `$CACHE/com.pot-app.desktop/pot_screenshot_cut.png`
+2. 将截图保存在 `$CACHE/allen.town.focus.saladict/pot_screenshot_cut.png`
 3. 向`127.0.0.1:port/ocr_recognize?screenshot=false`发送请求即可调用成功
 
 :::info
-`$CACHE`为系统缓存目录，例如在 Windows 上为`C:\Users\{用户名}\AppData\Local\com.pot-app.desktop\pot_screenshot_cut.png`
+`$CACHE`为系统缓存目录，例如在 Windows 上为`C:\Users\{用户名}\AppData\Local\allen.town.focus.saladict\pot_screenshot_cut.png`
 :::
 
 ### 示例
@@ -54,7 +54,7 @@ GET "/ocr_translate?screenshot=true" => 截图翻译,
 在 Linux 下调用 Flameshot 进行截图 OCR:
 
 ```bash
-rm ~/.cache/com.pot-app.desktop/pot_screenshot_cut.png && flameshot gui -s -p ~/.cache/com.pot-app.desktop/pot_screenshot_cut.png && curl "127.0.0.1:60828/ocr_recognize?screenshot=false"
+rm ~/.cache/allen.town.focus.saladict/pot_screenshot_cut.png && flameshot gui -s -p ~/.cache/allen.town.focus.saladict/pot_screenshot_cut.png && curl "127.0.0.1:60828/ocr_recognize?screenshot=false"
 ```
 
 ## 现有用法 (快捷划词翻译)(推荐使用)
