@@ -1,5 +1,5 @@
 ---
-title: Saladict
+title: Youdao
 titleTemplate: Youdao
 ---
 

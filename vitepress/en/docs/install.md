@@ -1,23 +1,23 @@
 ---
 title: Saladict
-titleTemplate: Install Guide
+titleTemplate: Installation Guide
 ---
 
-# Install Guide
+# Installation Guide
 
 ## Windows
 
-### Install Manually
+### Manual Installation
 
-- For 32-bit machines, please download `Windows x86 (.exe)`，After the download is complete, double-click to install.
+- For 32-bit machines, download `Windows x86 (.exe)`. After downloading, double-click to install.
 
-- For 64-bit machines, please download `Windows x64 (.exe)`，After the download is complete, double-click to install.
+- For 64-bit machines, download `Windows x64 (.exe)`. After downloading, double-click to install.
 
-- For arm64 machines, please download `Windows arm64 (.exe)`，After the download is complete, double-click to install.
+- For arm64 machines, download `Windows arm64 (.exe)`. After downloading, double-click to install.
 
-### Install via Winget
+### Installation via Winget
 
-pot also supports install through `winget` package manager, if you already have `winget` installed, you can install pot directly with the following command:
+Saladict also supports installation through the `winget` package manager. If you have `winget` installed, you can install Saladict directly with this command:
 
 ```powershell
 winget install Pylogmon.pot
@@ -27,11 +27,11 @@ winget install Pylogmon.pot
 
 :::warning Troubleshooting
 
-- "pot" can’t be opened because the developer cannot be verified.
+- "Saladict" can't be opened because the developer cannot be verified.
 
-  Click the `Cancel` button, then go to the `Settings -> Privacy & Security` page, click the `Still Open` button, and then click the `Open` button in the pop-up window. After that, there will be no more pop-up warnings when opening Saladict.
+  Click the `Cancel` button, then go to `Settings -> Privacy & Security`, click the `Still Open` button, and then click `Open` in the pop-up window. After this, there will be no more warning prompts when opening Saladict.
 
-- If you cannot find the above options in `Privacy & Security`, or get error prompts such as broken files with Apple Silicon machines. Open `Terminal.app` and enter the following command (you may need to enter a password halfway through), then restart pot:
+- If you cannot find these options in `Privacy & Security`, or get error prompts about broken files on Apple Silicon machines, open `Terminal.app` and enter this command (you may need to enter your password), then restart Saladict:
 
   ```bash
   sudo xattr -d com.apple.quarantine /Applications/Saladict.app
@@ -39,9 +39,9 @@ winget install Pylogmon.pot
 
 :::
 
-### Install Manually
+### Manual Installation
 
-MacOS provides both the `x64` version and the `aarch64` version, which correspond to Macs with `Intel` chips and Macs with `M1/M2` chips respectively.
+MacOS offers both the `x64` version and the `aarch64` version, which correspond to Macs with `Intel` chips and Macs with `M1/M2` chips respectively.
 
 - If you are using a Mac with an `Intel` chip, please download `MacOS x64(.dmg)`.
 - If you are using a Mac with `M1/M2` chip, please download `MacOS aarch64(.dmg)`.
@@ -79,7 +79,7 @@ brew upgrade --cask pot
 
 ### Debian/Ubuntu
 
-#### Install Manually
+#### Manual Installation
 
 - For 32-bit machines, please download `Linux x86 (.deb)`
 

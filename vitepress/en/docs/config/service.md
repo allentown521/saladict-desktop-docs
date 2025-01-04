@@ -1,16 +1,16 @@
 ---
 title: Saladict
-titleTemplate: Service
+titleTemplate: Service Settings
 ---
 
 # Service Settings
 
-Service settings are the core settings of the Saladict software, all interface settings are configured here.
+Service settings are the core settings of Saladict software, where all interface settings are configured.
 
 ## Built-in Services
 
-Saladict has many built-in services, some of which do not require configuration and can be used directly, while others require self-application of API services. For more information, please refer to [API Service Application](/en/docs/api/).
+Saladict has many built-in interfaces. Some of these interfaces can be used directly without configuration, while others require you to apply for API services. If needed, please refer to [API Service Application](/en/docs/api/)
 
 ## External Plugins
 
-Please refer to the [External Plugins](/en/docs/plugin) section.
+Please refer to the [External Plugins](/en/docs/plugin) section
