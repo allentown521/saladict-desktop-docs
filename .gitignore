@@ -5,3 +5,4 @@ node_modules/
 dist/
 publish.md
 .DS_Store
+settings.json
