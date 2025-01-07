@@ -21,7 +21,7 @@ titleTemplate: 常规设置
 
 ## 应用语言
 
-更改应用界面显示语言，帮助沙拉翻译完善翻译请访问[Weblate](https://hosted.weblate.org/engage/pot-app/)
+更改应用界面显示语言，帮助沙拉翻译完善翻译请访问[Weblate](https://hosted.weblate.org/engage/saladict-app/)
 
 ## 应用主题
 

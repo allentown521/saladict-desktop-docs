@@ -21,7 +21,7 @@ If you are using the `SnipDo` or `PopClip` plugins provided by Saladict, please 
 
 ## Application Language
 
-Change the application interface display language. To help improve Saladict translations, please visit [Weblate](https://hosted.weblate.org/engage/pot-app/)
+Change the application interface display language. To help improve Saladict translations, please visit [Weblate](https://hosted.weblate.org/engage/saladict-app/)
 
 ## Application Theme
 
