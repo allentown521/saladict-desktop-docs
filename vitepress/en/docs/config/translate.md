@@ -43,6 +43,11 @@ When enabled, line breaks in the selected content for text selection translation
 
 When enabled, changing the target language in the translation panel will update the target language option in settings.
 
+## Enter Line Break, Shift + Enter Translate
+
+- When enabled, Enter will line break, and Shift + Enter will translate
+- When disabled, Enter will be used for translation, and Shift + Enter will be used for line break
+
 ## Font Size
 
 Note that font size only affects the original text and translation in the translation window.
