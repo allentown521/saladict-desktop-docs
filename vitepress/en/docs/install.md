@@ -46,7 +46,7 @@ MacOS offers both the `x64` version and the `aarch64` version, which correspond 
 - If you are using a Mac with an `Intel` chip, please download `MacOS x64(.dmg)`.
 - If you are using a Mac with `M1/M2` chip, please download `MacOS aarch64(.dmg)`.
 
-After downloading is complete, open the `.dmg` file and drag the `pot` file into the Applications folder.
+After downloading is complete, open the `.dmg` file and drag the `Saladict` file into the Applications folder.
 
 ### Install via Brew
 

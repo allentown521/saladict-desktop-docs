@@ -48,7 +48,7 @@ MacOS 提供了 `x64` 版本和 `aarch64` 版本，分别对应 `intel` 芯片�
 - 如果您使用 Intel 芯片的 Mac，请下载 `MacOS x64(.dmg)`
 - 如果您使用 M1/M2 芯片的 Mac，请下载 `MacOS aarch64(.dmg)`
 
-下载完成之后打开 `dmg` 文件，将 `pot` 拖到 `Application` 内即可。
+下载完成之后打开 `dmg` 文件，将 `Saladict` 拖到 `Application` 内即可。
 
 ### 通过 Brew 安装
 
@@ -99,7 +99,7 @@ sudo apt-get install ./pot_{version}_{arch}.deb
 
 #### 通过星火应用商店安装
 
-下载安装[星火应用商店](https://www.spark-app.store/)，在商店中搜索 `pot` 后点击安装即可。
+下载安装[星火应用商店](https://www.spark-app.store/)，在商店中搜索 `Saladict` 后点击安装即可。
 
 ### Arch/Manjaro
 
