@@ -99,7 +99,7 @@ sudo apt-get install ./pot_{version}_{arch}.deb
 
 Download and install the [Spark App Store](https://www.spark-app.store/).
 
-Simply search for "pot" in the store and click on the installation button.
+Simply search for "Saladict" in the store and click on the installation button.
 
 ### Arch/Manjaro
 

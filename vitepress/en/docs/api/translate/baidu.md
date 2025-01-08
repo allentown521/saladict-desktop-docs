@@ -38,7 +38,7 @@ After registration, open the console [https://fanyi-api.baidu.com/api/trans/prod
 
 Select "General Translation (for text translation)" and click "Next"
 Choose "Activate Standard Version"
-Fill in the application name "pot" and click "Submit Application". You'll see an "Activation Successful" message.
+Fill in the application name "Saladict" and click "Submit Application". You'll see an "Activation Successful" message.
 
 ### Optional Step: Switch to Advanced Version API
 
