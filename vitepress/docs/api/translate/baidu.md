@@ -15,7 +15,7 @@ titleTemplate: 百度翻译
 
 尊享版需要企业认证，不适用于个人用户，所以这个文档里没有介绍尊享版。
 
-标准版每月只有 5 万免费字符，当你完成个人认证后，就可以切换到高级版，高级版每月有 100 万字符免费。用完免费额度后，超出的部分会按照 49 元 / 百万字符收取费用，费用由百度翻译在它自己的百度翻译开放平台收取，与 Saladict 无关。
+标准版每月只有 5 万免费字符，当你完成个人认证后，就可以切换到高级版，高级版每月有 100 万字符免费。用完免费额度后，超出的部分会按照 49 元 / 百万字符收取费用，费用由百度翻译在它自己的百度翻译开放平台收取，与 沙拉翻译 无关。
 
 建议前往百度翻译平台的我的服务 - 通用文本翻译开启“免费额度用量提醒”。比如如果你有 100 万字符的免费额度，那么你可以将提醒数量设置为 90 万字，这样当你当月消耗了 90 万字时，百度翻译会短信 / 邮件提醒你。
 
@@ -44,9 +44,9 @@ titleTemplate: 百度翻译
 
 完成前三个步骤之后，你就可以使用标准版接口了，但如果你想使用高级版接口，可以打开百度翻译开放平台控制台 [https://fanyi-api.baidu.com/api/trans/product/desktop](https://fanyi-api.baidu.com/api/trans/product/desktop)，点击写有「标准版」的下拉框即可切换为高级版。第一次切换为高级版的时候会让你进行身份认证。
 
-### 第四步：在 Saladict 中填写百度翻译 APPID 和 密钥
+### 第四步：在 沙拉翻译 中填写百度翻译 APPID 和 密钥
 
-打开百度翻译开放平台控制台 [https://fanyi-api.baidu.com/api/trans/product/desktop](https://fanyi-api.baidu.com/api/trans/product/desktop)，将页面最底部的「APP ID」和「密钥」填写进 Saladict 的【设置页】-【接口设置】-【百度翻译 Appid】和【百度翻译密钥】中。
+打开百度翻译开放平台控制台 [https://fanyi-api.baidu.com/api/trans/product/desktop](https://fanyi-api.baidu.com/api/trans/product/desktop)，将页面最底部的「APP ID」和「密钥」填写进 沙拉翻译 的【设置页】-【接口设置】-【百度翻译 Appid】和【百度翻译密钥】中。
 
 ## 相关链接
 

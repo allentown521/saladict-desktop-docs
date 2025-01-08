@@ -11,16 +11,16 @@ titleTemplate: FAQ
 
 - Reason
 
-  Saladict always uses the latest version of Rust for compilation, which no longer supports Windows 7.
+  沙拉翻译 always uses the latest version of Rust for compilation, which no longer supports Windows 7.
 
 - Solution
 
   Run using the [vxiiduu/VxKex](https://github.com/vxiiduu/VxKex) project. Follow these steps:
   
   1. Download `KexSetup_Release_x_x_x_xxxx.exe` from [Releases](https://github.com/vxiiduu/VxKex/releases) and install it.
-  2. Navigate to the Saladict installation directory, right-click `Saladict.exe`, and open Properties.
+  2. Navigate to the 沙拉翻译 installation directory, right-click `Saladict.exe`, and open Properties.
   3. Find the `VxKex` tab, check the options `Enable VxKex for this program` and `Disable VxKex for child processes`, then click Apply.
-  4. You can now use Saladict normally.
+  4. You can now use 沙拉翻译 normally.
 :::
 
 ## Deleted by antivirus software
@@ -81,7 +81,7 @@ titleTemplate: FAQ
 
 - Solution
 
-  If you encounter a "Segmentation fault" or Saladict fails to start, please try adding the environment variable `WEBKIT_DISABLE_DMABUF_RENDERER=1` in `/etc/environment` (or any other place where environment variables can be set) to disable the use of DMABUF.
+  If you encounter a "Segmentation fault" or 沙拉翻译 fails to start, please try adding the environment variable `WEBKIT_DISABLE_DMABUF_RENDERER=1` in `/etc/environment` (or any other place where environment variables can be set) to disable the use of DMABUF.
 
 :::
 

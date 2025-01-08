@@ -34,7 +34,7 @@ titleTemplate: 质谱 AI
 
 或是打开这个网址[https://maas.aminer.cn/usercenter/apikeys](https://maas.aminer.cn/usercenter/apikeys)查看自己的 API key。记得复制
 
-### 第三步：在 Saladict 中填写 智谱 AI 的 API key
+### 第三步：在 沙拉翻译 中填写 智谱 AI 的 API key
 
 打开 pot的【服务设置】，点击【添加内置服务】，选择【智谱 AI】（或其他使用智谱 AI 的服务），将 复制到的 API key 粘贴进 【Api Key】栏中，保存即可使用。
 

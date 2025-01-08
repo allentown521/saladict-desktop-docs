@@ -71,9 +71,9 @@ titleTemplate: Simple LaTeX
 
 ![simplelatex5](./asset/simplelatex5.png)
 
-### 第四步：将令牌填入 Saladict 设置
+### 第四步：将令牌填入 沙拉翻译 设置
 
-将复制的 令牌 填入 Saladict 的【设置页】-【服务设置】-【文字识别】 - 【添加内置服务】 - 【Simple LaTeX】中的 Token 参数即可。
+将复制的 令牌 填入 沙拉翻译 的【设置页】-【服务设置】-【文字识别】 - 【添加内置服务】 - 【Simple LaTeX】中的 Token 参数即可。
 
 ### 第五步：每月领取资源包
 

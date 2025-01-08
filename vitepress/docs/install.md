@@ -31,9 +31,9 @@ winget install Saladict.app
 
   点击 `取消` 按钮，然后去 `设置 -> 隐私与安全性` 页面，点击 `仍要打开` 按钮，然后在弹出窗口里点击
 
-  `打开` 按钮即可，以后打开 Saladict 就再也不会有任何弹窗警告了
+  `打开` 按钮即可，以后打开 沙拉翻译 就再也不会有任何弹窗警告了
 
-- 如果在 `隐私与安全性` 中找不到以上选项，或启动时提示文件损坏。打开 `Terminal.app`，并输入以下命令，然后重启 Saladict 即可：
+- 如果在 `隐私与安全性` 中找不到以上选项，或启动时提示文件损坏。打开 `Terminal.app`，并输入以下命令，然后重启 沙拉翻译 即可：
 
   ```bash
   sudo xattr -d com.apple.quarantine /Applications/Saladict.app

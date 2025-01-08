@@ -7,7 +7,7 @@ titleTemplate: General Settings
 
 ## Auto Start
 
-Automatically start Saladict when system boots.
+Automatically start 沙拉翻译 when system boots.
 
 ## Check Updates on Start
 
@@ -15,7 +15,7 @@ Check for new versions every time the software starts. If a new version is avail
 
 ## Application Language
 
-Change the application interface display language. To help improve Saladict translations, please visit [Weblate](https://hosted.weblate.org/engage/saladict-app/)
+Change the application interface display language. To help improve 沙拉翻译 translations, please visit [Weblate](https://hosted.weblate.org/engage/saladict-app/)
 
 ## Application Theme
 

@@ -17,7 +17,7 @@ titleTemplate: Installation Guide
 
 ### Installation via Winget
 
-Saladict also supports installation through the `winget` package manager. If you have `winget` installed, you can install Saladict directly with this command:
+Saladict also supports installation through the `winget` package manager. If you have `winget` installed, you can install 沙拉翻译 directly with this command:
 
 ```powershell
 winget install Saladict.app
@@ -72,7 +72,7 @@ brew upgrade --cask pot
 
 :::warning Troubleshooting
 
-- In the latest version of [Webkit2Gtk](https://archlinux.org/packages/extra/x86_64/webkit2gtk) (2.42.0), due to incomplete implementation of DMABUF by Nvidia proprietary drivers, there may be issues with startup failure and crashes. If you encounter a "Segmentation fault" or Saladict fails to start, please try adding the environment variable `WEBKIT_DISABLE_DMABUF_RENDERER=1` in `/etc/environment` (or any other place where environment variables can be set) to disable the use of DMABUF.
+- In the latest version of [Webkit2Gtk](https://archlinux.org/packages/extra/x86_64/webkit2gtk) (2.42.0), due to incomplete implementation of DMABUF by Nvidia proprietary drivers, there may be issues with startup failure and crashes. If you encounter a "Segmentation fault" or 沙拉翻译 fails to start, please try adding the environment variable `WEBKIT_DISABLE_DMABUF_RENDERER=1` in `/etc/environment` (or any other place where environment variables can be set) to disable the use of DMABUF.
 - Wayland users are unable to use application-specific shortcuts. Please refer to the documentation on [setting system shortcuts](/en/docs/wayland#shortcut-can-t-be-used).
 
 :::

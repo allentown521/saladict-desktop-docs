@@ -65,7 +65,7 @@ Select [Can access resources and receive messages], then click [Next].
 
 Step 2: Fill in User Information
 
-Set user information: fill in username, remarks as "For Saladict - Tencent Translator use".
+Set user information: fill in username, remarks as "For 沙拉翻译 - Tencent Translator use".
 Access method: check [Programming access].
 Message types that can be received: I unchecked all, you can choose based on your needs.
 Then click [Next].

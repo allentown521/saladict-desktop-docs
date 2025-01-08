@@ -5,7 +5,7 @@ titleTemplate: Google Translate
 
 # Google Translate
 
-Due to well-known reasons, Google servers cannot be accessed from mainland China, so Saladict provides two solutions.
+Due to well-known reasons, Google servers cannot be accessed from mainland China, so 沙拉翻译 provides two solutions.
 
 ## Method 2: Use Mirror Site Address
 
