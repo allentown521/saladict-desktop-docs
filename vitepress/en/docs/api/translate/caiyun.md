@@ -11,7 +11,7 @@ The documentation content may be outdated. Please refer to the official Caiyun T
 
 ## Pricing
 
-Caiyun Translation offers the first 1 million characters free each month. Beyond that, charges are 20 yuan per million characters. The fees are charged by Caiyun Translation on their own Caiyun Technology Open Platform and are unrelated to pot.
+Caiyun Translation offers the first 1 million characters free each month. Beyond that, charges are 20 yuan per million characters. The fees are charged by Caiyun Translation on their own Caiyun Technology Open Platform and are unrelated to Saladict.
 
 Although not mentioned in the official documentation, Caiyun Translation appears to bill on a daily basis. If you use up your free quota, Caiyun Translation will stop working and return an error "Server returned error code 402". However, please note that daily billing means there won't be real-time notifications for usage within a day, and you'll only be notified during the daily settlement (usually around 1 AM).
 
@@ -42,9 +42,9 @@ Click the link in the [Token] column of the table, and you'll enter the followin
 
 ![2](./asset/caiyun2.png)
 
-### Step 3: Enter Caiyun Translation API Token in pot
+### Step 3: Enter Caiyun Translation API Token in Saladict
 
-Enter the Caiyun Translation API Token obtained in the previous step into pot's [Settings Page] - [Interface Settings] - [Caiyun Translation Token].
+Enter the Caiyun Translation API Token obtained in the previous step into Saladict's [Settings Page] - [Interface Settings] - [Caiyun Translation Token].
 
 ## Related Links
 

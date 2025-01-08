@@ -34,9 +34,9 @@ After registration, open the development dashboard to find your API key
 
 Or open this URL [https://maas.aminer.cn/usercenter/apikeys](https://maas.aminer.cn/usercenter/apikeys) to view your API key. Remember to copy it.
 
-### Step 3: Enter Zhipu AI API Key in pot
+### Step 3: Enter Zhipu AI API Key in Saladict
 
-Open pot's [Service Settings], click [Add Built-in Service], select [Zhipu AI] (or other services using Zhipu AI), paste the copied API key into the [Api Key] field, and save to start using.
+Open Saladict's [Service Settings], click [Add Built-in Service], select [Zhipu AI] (or other services using Zhipu AI), paste the copied API key into the [Api Key] field, and save to start using.
 
 ## Related Links
 

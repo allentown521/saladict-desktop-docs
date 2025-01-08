@@ -11,7 +11,7 @@ The documentation content may be outdated. Please refer to the official Tencent 
 
 ## Pricing
 
-The first 5 million characters per month are free. Beyond that, charges are 58 yuan per million characters. The fees are charged by Tencent Translation on their own Tencent Cloud official website and are unrelated to pot.
+The first 5 million characters per month are free. Beyond that, charges are 58 yuan per million characters. The fees are charged by Tencent Translation on their own Tencent Cloud official website and are unrelated to Saladict.
 
 Since the paid version is billed monthly, this means that even if you've used up your free quota within a calendar month, Tencent Cloud will continue charging until the settlement at the beginning of the next month. Therefore, please closely monitor your monthly usage. If you want to be notified when Tencent Cloud makes monthly charges, it's recommended to top up 1 yuan in Tencent Cloud's billing center and set a cost alert for 1 yuan, so you'll receive notifications when monthly charges occur.
 
@@ -82,9 +82,9 @@ For this step, just click the [Complete] button, and you'll see this sub-account
 </p>
 </details>
 
-### Step 4: Enter the Keys in pot
+### Step 4: Enter the Keys in Saladict
 
-Enter the [SecretId] and [SecretKey] you just created into pot's [Settings Page] - [Interface Settings] - [Tencent Translator Key ID] and [Tencent Translator Key Value].
+Enter the [SecretId] and [SecretKey] you just created into Saladict's [Settings Page] - [Interface Settings] - [Tencent Translator Key ID] and [Tencent Translator Key Value].
 
 ## Related Links
 

@@ -15,7 +15,7 @@ Baidu Translation official API has three versions: Standard, Advanced, and Premi
 
 The Premium version requires enterprise certification and is not suitable for individual users, so it is not covered in this documentation.
 
-The Standard version only offers 50,000 free characters per month. After completing personal verification, you can switch to the Advanced version, which provides 1 million free characters per month. After using up the free quota, additional usage is charged at 49 yuan per million characters. The fees are charged by Baidu Translation on their own Baidu Translation Open Platform and are unrelated to pot.
+The Standard version only offers 50,000 free characters per month. After completing personal verification, you can switch to the Advanced version, which provides 1 million free characters per month. After using up the free quota, additional usage is charged at 49 yuan per million characters. The fees are charged by Baidu Translation on their own Baidu Translation Open Platform and are unrelated to Saladict.
 
 It is recommended to enable "Free Quota Usage Alert" in My Services - General Text Translation on the Baidu Translation Platform. For example, if you have a free quota of 1 million characters, you can set the alert threshold to 900,000 characters. This way, when you consume 900,000 characters in the current month, Baidu Translation will notify you via SMS/email.
 
@@ -44,9 +44,9 @@ Fill in the application name "Saladict" and click "Submit Application". You'll s
 
 After completing the first three steps, you can use the Standard version API. If you want to use the Advanced version API, open the Baidu Translation Open Platform console [https://fanyi-api.baidu.com/api/trans/product/desktop](https://fanyi-api.baidu.com/api/trans/product/desktop), click the dropdown box labeled "Standard Version" to switch to Advanced version. The first time you switch to Advanced version, you'll need to complete identity verification.
 
-### Step 4: Fill in Baidu Translation APPID and Key in pot
+### Step 4: Fill in Baidu Translation APPID and Key in Saladict
 
-Open the Baidu Translation Open Platform console [https://fanyi-api.baidu.com/api/trans/product/desktop](https://fanyi-api.baidu.com/api/trans/product/desktop), and enter the "APP ID" and "Key" from the bottom of the page into pot's [Settings Page] - [Interface Settings] - [Baidu Translation Appid] and [Baidu Translation Key].
+Open the Baidu Translation Open Platform console [https://fanyi-api.baidu.com/api/trans/product/desktop](https://fanyi-api.baidu.com/api/trans/product/desktop), and enter the "APP ID" and "Key" from the bottom of the page into Saladict's [Settings Page] - [Interface Settings] - [Baidu Translation Appid] and [Baidu Translation Key].
 
 ## Related Links
 

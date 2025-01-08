@@ -53,19 +53,19 @@ After downloading is complete, open the `.dmg` file and drag the `pot` file into
 1. Add our tap:
 
 ```bash
-brew tap pot-app/homebrew-tap
+brew tap Saladict-app/homebrew-tap
 ```
 
-2. Install pot:
+2. Install Saladict:
 
 ```bash
-brew install --cask pot
+brew install --cask Saladict
 ```
 
-3. Upgrade pot
+3. Upgrade Saladict
 
 ```bash
-brew upgrade --cask pot
+brew upgrade --cask Saladict
 ```
 
 ## Linux
@@ -108,9 +108,9 @@ Simply search for "Saladict" in the store and click on the installation button.
 Use `AUR helper`：
 
 ```bash
-yay -S pot-translation # 或 pot-translation-bin
+yay -S Saladict-translation # 或 Saladict-translation-bin
 
-# paru -S pot-translation # 或 pot-translation-bin
+# paru -S Saladict-translation # 或 Saladict-translation-bin
 ```
 
 #### Install via `archlinuxcn`
@@ -118,7 +118,7 @@ yay -S pot-translation # 或 pot-translation-bin
 If you are using the `archlinuxcn` repository, you can directly install it using pacman:
 
 ```bash
-sudo pacman -S pot-translation
+sudo pacman -S Saladict-translation
 ```
 
 ### Flatpak
@@ -158,7 +158,7 @@ sudo apt-get install -y libgtk-3-dev libwebkit2gtk-4.0-dev libayatana-appindicat
 3. Start Compilation
 
 ```bash
-cd pot-desktop
+cd Saladict-desktop
 
 pnpm install
 

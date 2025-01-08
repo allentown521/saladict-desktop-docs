@@ -38,6 +38,6 @@ Once you have a DeepL API account:
 2. If you're not logged in, click [Login] in the top right corner and log in to your account. Note: You may need to disable your proxy software to log in successfully.
 3. After logging in, scroll down to find the required Auth Key.
 
-### Step 3: Enter the Auth Key in pot
+### Step 3: Enter the Auth Key in Saladict
 
-Open pot's [Settings Page] - [Interface Settings], find [DeepL] and enter the Auth Key.
+Open Saladict's [Settings Page] - [Interface Settings], find [DeepL] and enter the Auth Key.

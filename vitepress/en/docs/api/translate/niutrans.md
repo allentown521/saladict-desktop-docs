@@ -35,9 +35,9 @@ Click to go to the [Get Key page](https://niutrans.com/cloud/account_info/info),
 
 ![](./asset/niutrans3.png)
 
-### Step 3: Enter NiuTrans API KEY in pot
+### Step 3: Enter NiuTrans API KEY in Saladict
 
-Enter the NiuTrans `API Key` obtained in the previous step into pot's [Settings Page] - [Service Settings] - [Translation] - [Add Built-in Service] - [NiuTrans] - [Api Key].
+Enter the NiuTrans `API Key` obtained in the previous step into Saladict's [Settings Page] - [Service Settings] - [Translation] - [Add Built-in Service] - [NiuTrans] - [Api Key].
 
 ## Related Links
 

@@ -27,9 +27,9 @@ Open https://platform.openai.com/account/api-keys (you'll need to log in if not 
 Click the [Create new secret key] button, a popup will appear showing the Secret Key
 Copy the Secret Key
 
-### Step 3: Enter OpenAI Secret Key in pot
+### Step 3: Enter OpenAI Secret Key in Saladict
 
-Enter the Secret Key into pot's [Settings Page] - [Interface Settings] - [Open AI ApiKey].
+Enter the Secret Key into Saladict's [Settings Page] - [Interface Settings] - [Open AI ApiKey].
 
 ## Solutions for OpenAI API Connection Issues
 
@@ -58,7 +58,7 @@ Since this application supports setting custom request domains, you can directly
 
    ![AiHubMix](./asset/aihubmix2.png)
 
-4. In pot, set the custom domain to `orisound.cn` or `aihubmix.com`
+4. In Saladict, set the custom domain to `orisound.cn` or `aihubmix.com`
 5. Enter the created token key in settings and save
 
    ![AiHubMix](./asset/aihubmix3.png)
@@ -67,7 +67,7 @@ Since this application supports setting custom request domains, you can directly
 
 1. Open [AI.LS](https://ai.ls/) official website
 2. Click `Get API Key/Tokens` on the right, enter email and purchase
-3. In pot, set the custom domain to `api.caipacity.com`
+3. In Saladict, set the custom domain to `api.caipacity.com`
 4. Enter the `Api Key` received in your email in settings
 
    ![AI.LS](./asset/ai.ls.png)

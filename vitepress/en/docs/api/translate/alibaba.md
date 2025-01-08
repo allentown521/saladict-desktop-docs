@@ -11,7 +11,7 @@ The documentation content may be outdated. Please refer to the official Alibaba 
 
 ## Pricing
 
-Alibaba Translation offers the first 1 million characters free each month. Beyond that, charges are 50 yuan per million characters. The fees are charged by Alibaba Translation on their official Alibaba Cloud website and are unrelated to pot.
+Alibaba Translation offers the first 1 million characters free each month. Beyond that, charges are 50 yuan per million characters. The fees are charged by Alibaba Translation on their official Alibaba Cloud website and are unrelated to Saladict.
 
 Alibaba Translation bills on a daily basis. It is recommended to top up 1 yuan in Alibaba Cloud's billing center and set an available balance alert for 1 yuan, so you'll receive SMS notifications when daily charges occur. However, please note that daily billing means that even if you use up your balance within a day, charges will continue to accumulate and you'll only be notified during the daily settlement (usually around 1 AM).
 
@@ -67,8 +67,8 @@ Click the [Create User] button:
 
 After clicking, you need to fill in user information:
 
-Set Login Name: pot
-Fill Display Name: pot
+Set Login Name: Saladict
+Fill Display Name: Saladict
 Access Method: Check [Open API Call Access].
 Then click [OK].
 
@@ -95,9 +95,9 @@ For this step, just click the [Complete] button, and you'll see the sub-account'
 </p>
 </details>
 
-### Step 3: Fill in AccessKey in pot
+### Step 3: Fill in AccessKey in Saladict
 
-Enter the [AccessKey ID] and [AccessKey Secret] from above into pot's [Settings Page] - [Interface Settings] - [Alibaba Translation].
+Enter the [AccessKey ID] and [AccessKey Secret] from above into Saladict's [Settings Page] - [Interface Settings] - [Alibaba Translation].
 
 ## Related Links
 

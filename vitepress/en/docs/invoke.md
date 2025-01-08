@@ -5,7 +5,7 @@ titleTemplate: External Calls
 
 # External Calls
 
-Saladict provides a complete HTTP interface for integration with other software. You can call 沙拉翻译 by sending HTTP requests to `127.0.0.1:port`, where `port` is the listening port of pot, default to `60606`, and can be changed in the app settings.
+Saladict provides a complete HTTP interface for integration with other software. You can call 沙拉翻译 by sending HTTP requests to `127.0.0.1:port`, where `port` is the listening port of Saladict, default to `60606`, and can be changed in the app settings.
 
 ## API Docs:
 
@@ -27,7 +27,7 @@ GET "/ocr_translate?screenshot=true" => Translate screenshot
 
 - Call translation by selection:
 
-  To call pot's translation by selection, simply send a request to `127.0.0.1:port`:
+  To call Saladict's translation by selection, simply send a request to `127.0.0.1:port`:
 
   E.g. using curl:
 
@@ -37,7 +37,7 @@ GET "/ocr_translate?screenshot=true" => Translate screenshot
 
 ## OCR without internal screenshot
 
-This allows you to perform OCR/translation without using pot's internal screenshot, so you can use your own screenshot tools. It also solves the problem where pot's internal screenshot doesn't work on some platforms.
+This allows you to perform OCR/translation without using Saladict's internal screenshot, so you can use your own screenshot tools. It also solves the problem where Saladict's internal screenshot doesn't work on some platforms.
 
 ### Workflow:
 

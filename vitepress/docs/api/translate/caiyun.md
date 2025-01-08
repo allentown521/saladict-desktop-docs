@@ -42,7 +42,7 @@ titleTemplate: 彩云小译
 
 ![2](./asset/caiyun2.png)
 
-### 第三步：将彩云小译 API Token 填进 pot
+### 第三步：将彩云小译 API Token 填进 Saladict
 
 将上一步获取的彩云小译 API Token 填写进 沙拉翻译 的【设置页】-【接口设置】-【彩云小译 Token】即可。
 

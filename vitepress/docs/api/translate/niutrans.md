@@ -35,7 +35,7 @@ titleTemplate: 小牛翻译
 
 ![](./asset/niutrans3.png)
 
-### 第三步：小牛翻译 API KEY 填进 pot
+### 第三步：小牛翻译 API KEY 填进 Saladict
 
 将上一步获取的小牛翻译 `API Ket` 填写进 沙拉翻译 的【设置页】-【服务设置】-【翻译】-【添加内置服务】-【小牛翻译】- 【Api Key】 即可。
 

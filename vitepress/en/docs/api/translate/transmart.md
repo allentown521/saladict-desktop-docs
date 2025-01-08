@@ -25,7 +25,7 @@ Click the [Login] button in the top right corner and choose your preferred login
 
 ### Step 3: Get Token
 
-Click your avatar in the top right corner to enter your personal page. You can find your Token in the developer section. Copy it and enter it into pot's settings page.
+Click your avatar in the top right corner to enter your personal page. You can find your Token in the developer section. Copy it and enter it into Saladict's settings page.
 
 ## Related Links
 

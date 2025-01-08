@@ -17,7 +17,7 @@ titleTemplate: 安装指南
 
 ### 通过 winget 安装
 
-pot 也支持通过 `winget` 包管理器安装，如果您已经安装了 `winget`，可以直接通过以下命令安装 pot:
+pot 也支持通过 `winget` 包管理器安装，如果您已经安装了 `winget`，可以直接通过以下命令安装 Saladict:
 
 ```powershell
 winget install Saladict.app
@@ -55,19 +55,19 @@ MacOS 提供了 `x64` 版本和 `aarch64` 版本，分别对应 `intel` 芯片�
 1. 添加我们的 tap:
 
 ```bash
-brew tap pot-app/homebrew-tap
+brew tap Saladict-app/homebrew-tap
 ```
 
-2. 安装 pot:
+2. 安装 Saladict:
 
 ```bash
-brew install --cask pot
+brew install --cask Saladict
 ```
 
-3. 更新 pot
+3. 更新 Saladict
 
 ```bash
-brew upgrade --cask pot
+brew upgrade --cask Saladict
 ```
 
 ## Linux
@@ -108,9 +108,9 @@ sudo apt-get install ./pot_{version}_{arch}.deb
 使用 `AUR helper` 安装：
 
 ```bash
-yay -S pot-translation # 或 pot-translation-bin
+yay -S Saladict-translation # 或 Saladict-translation-bin
 
-# paru -S pot-translation # 或 pot-translation-bin
+# paru -S Saladict-translation # 或 Saladict-translation-bin
 ```
 
 #### 通过 `archlinuxcn` 安装
@@ -118,7 +118,7 @@ yay -S pot-translation # 或 pot-translation-bin
 如果你使用 `archlinuxcn` 源，可以直接使用 pacman 安装
 
 ```bash
-sudo pacman -S pot-translation
+sudo pacman -S Saladict-translation
 ```
 
 ### Flatpak
@@ -158,7 +158,7 @@ sudo apt-get install -y libgtk-3-dev libwebkit2gtk-4.0-dev libayatana-appindicat
 3. 开始编译
 
 ```bash
-cd pot-desktop
+cd Saladict-desktop
 
 pnpm install # 安装前端依赖
 
