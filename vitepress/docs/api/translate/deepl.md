@@ -12,7 +12,7 @@ titleTemplate: DeepL
 
 ## 价格
 
-DeepL 的订阅类型分为两种：针对个人和团队和研发人员（DeepL API），pot 能且只能使用研发人员（DeepL API）。
+DeepL 的订阅类型分为两种：针对个人和团队和研发人员（DeepL API），Saladict 能且只能使用研发人员（DeepL API）。
 
 研发人员（DeepL API）又分为两种：
 

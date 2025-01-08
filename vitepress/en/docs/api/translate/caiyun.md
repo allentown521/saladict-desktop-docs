@@ -27,7 +27,7 @@ Fill in your name for both [Personal Name/Organization Name] and [Contact Name]
 After proceeding to the next step:
 
 [Application Category] select [Caiyun Translation API]
-[Application Name] fill in [pot]
+[Application Name] fill in [Saladict]
 [Application Link] fill in [https://saladict-app.aichatone.com/]
 [Application Development Status] fill in [Desktop application, development completed]
 After completing the form, click the [Submit] button. Caiyun Translation will review your submitted information, typically approving it within two business days.

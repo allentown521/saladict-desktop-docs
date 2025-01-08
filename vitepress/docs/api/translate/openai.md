@@ -37,11 +37,11 @@ OpenAI API（gpt-3.5-turbo）一次性提供 5 美元的免费额度，而它的
 
 参考 [chatgptProxyAPI](https://github.com/x-dr/chatgptProxyAPI)
 
-pot 已经提供了自定义域名的设置，在设置中填写你自己的域名即可。
+Saladict 已经提供了自定义域名的设置，在设置中填写你自己的域名即可。
 
 ### 方法 2：开启代理
 
-pot 提供了软件内代理设置(软件内代理对 OpenAI 流式输出无效，若使用流式输出需要开启系统代理)
+Saladict 提供了软件内代理设置(软件内代理对 OpenAI 流式输出无效，若使用流式输出需要开启系统代理)
 
 ### 方法 3：使用第三方服务（推荐）
 

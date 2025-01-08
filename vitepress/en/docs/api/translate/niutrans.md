@@ -14,7 +14,7 @@ The documentation content may be outdated. Please refer to the official NiuTrans
 NiuTrans provides 100 free points daily (1 point = 2000 characters). During usage, the daily free points will be consumed first.
 
 :::info
-Register a NiuTrans account through the [pot user exclusive registration link](https://niutrans.com/login?active=3&userSource=pot) to receive an additional 2 million characters of traffic.
+Register a NiuTrans account through the [Saladict user exclusive registration link](https://niutrans.com/login?active=3&userSource=pot) to receive an additional 2 million characters of traffic.
 :::
 
 ![](./asset/niutrans1.png)
@@ -25,7 +25,7 @@ NiuTrans uses a prepaid model. After consuming the daily free 200,000 characters
 
 ### Step 1: Register or Login
 
-Click the [pot user exclusive registration link](https://niutrans.com/login?active=3&userSource=pot) to register a NiuTrans account. If you already have an account, choose to login; if not, proceed with registration.
+Click the [Saladict user exclusive registration link](https://niutrans.com/login?active=3&userSource=pot) to register a NiuTrans account. If you already have an account, choose to login; if not, proceed with registration.
 
 ![](./asset//niutrans2.png)
 
@@ -41,6 +41,6 @@ Enter the NiuTrans `API Key` obtained in the previous step into Saladict's [Sett
 
 ## Related Links
 
-[pot user exclusive NiuTrans registration link](https://niutrans.com/login?active=3&userSource=pot)
+[Saladict user exclusive NiuTrans registration link](https://niutrans.com/login?active=3&userSource=pot)
 
 [NiuTrans API Pricing Documentation](https://niutrans.com/price)

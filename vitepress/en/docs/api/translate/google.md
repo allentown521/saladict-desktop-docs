@@ -9,7 +9,7 @@ Due to well-known reasons, Google servers cannot be accessed from mainland China
 
 ## Method 2: Use Mirror Site Address
 
-pot provides custom domain settings. You can set a custom domain in the settings. By setting the custom domain to your mirror site address, you can connect to Google servers without using a proxy.
+Saladict provides custom domain settings. You can set a custom domain in the settings. By setting the custom domain to your mirror site address, you can connect to Google servers without using a proxy.
 
 ## Method 1: Enable Proxy
 

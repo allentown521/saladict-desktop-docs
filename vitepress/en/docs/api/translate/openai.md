@@ -37,11 +37,11 @@ Enter the Secret Key into Saladict's [Settings Page] - [Interface Settings] - [O
 
 Refer to [chatgptProxyAPI](https://github.com/x-dr/chatgptProxyAPI)
 
-pot already provides custom domain settings. Simply enter your own domain in the settings.
+Saladict already provides custom domain settings. Simply enter your own domain in the settings.
 
 ### Method 2: Enable Proxy
 
-pot provides in-app proxy settings (in-app proxy is not effective for OpenAI streaming output; system proxy must be enabled for streaming output)
+Saladict provides in-app proxy settings (in-app proxy is not effective for OpenAI streaming output; system proxy must be enabled for streaming output)
 
 ### Method 3: Use Third-party Services (Recommended)
 
