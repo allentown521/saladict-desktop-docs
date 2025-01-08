@@ -54,9 +54,9 @@ titleTemplate: 百度 OCR
 
 ![baidu4](./asset/baidu4.png)
 
-### 第五步：将密钥填入 pot 设置
+### 第五步：将密钥填入 Saladict 设置
 
-将复制的 API Key 和 Secret Key 填入 pot 的【设置页】-【接口设置】-【OCR 接口】中对应位置即可。
+将复制的 API Key 和 Secret Key 填入 Saladict 的【设置页】-【接口设置】-【OCR 接口】中对应位置即可。
 
 ## 相关链接
 

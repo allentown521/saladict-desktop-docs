@@ -5,7 +5,7 @@ titleTemplate: External Calls
 
 # External Calls
 
-Saladict provides a complete HTTP interface for integration with other software. You can call pot by sending HTTP requests to `127.0.0.1:port`, where `port` is the listening port of pot, default to `60606`, and can be changed in the app settings.
+Saladict provides a complete HTTP interface for integration with other software. You can call Saladict by sending HTTP requests to `127.0.0.1:port`, where `port` is the listening port of pot, default to `60606`, and can be changed in the app settings.
 
 ## API Docs:
 
@@ -66,16 +66,16 @@ rm ~/.cache/allen.town.focus.saladict/pot_screenshot_cut.png && flameshot gui -s
 ### SnipDo (Windows)
 
 1. Download and install SnipDo in the [Microsoft Store](https://apps.microsoft.com/store/detail/snipdo/9NPZ2TVKJVT7)
-2. Download the SnipDo extension of pot from the Latest [Release](https://github.com/allentown521/saladict/releases/latest) (Saladict.pbar)
+2. Download the SnipDo extension of Saladict from the Latest [Release](https://github.com/allentown521/saladict/releases/latest) (Saladict.pbar)
 3. Double click the downloaded file to install it.
-4. Selection some text, you can see the pot icon in the upper right corner of the selection, click the icon to translate.
+4. Selection some text, you can see the Saladict icon in the upper right corner of the selection, click the icon to translate.
 
 ### PopClip (MacOS)
 
 1. Download and install PopClip in the [App Store](https://apps.apple.com/us/app/popclip/id445189367?mt=12)
-2. Download the PopClip extension of pot from the Latest [Release](https://github.com/allentown521/saladict/releases/latest) (Saladict.popclipextz)
+2. Download the PopClip extension of Saladict from the Latest [Release](https://github.com/allentown521/saladict/releases/latest) (Saladict.popclipextz)
 3. Double click the downloaded file to install it.
-4. Enable the pot extension in PopClip settings, and then you can translate by selecting text.
+4. Enable the Saladict extension in PopClip settings, and then you can translate by selecting text.
 
 ### Starry (Linux)
 

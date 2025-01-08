@@ -42,7 +42,7 @@ titleTemplate: 常见问题
 
 - 原因
 
-  Tauri 框架依赖于 WebView2，如果卸载或禁用了 WebView2，将无法显示界面，表现为 pot 可以启动，但是点击托盘菜单没有反应。
+  Tauri 框架依赖于 WebView2，如果卸载或禁用了 WebView2，将无法显示界面，表现为 Saladict 可以启动，但是点击托盘菜单没有反应。
 
 - 解决方案
 
@@ -96,9 +96,9 @@ titleTemplate: 常见问题
 
   点击 `取消` 按钮，然后去 `设置 -> 隐私与安全性` 页面，点击 `仍要打开` 按钮，然后在弹出窗口里点击
 
-  `打开` 按钮即可，以后打开 pot 就再也不会有任何弹窗警告了
+  `打开` 按钮即可，以后打开 Saladict 就再也不会有任何弹窗警告了
 
-  如果在 `隐私与安全性` 中找不到以上选项，或启动时提示文件损坏。打开 `Terminal.app`，并输入以下命令，然后重启 pot 即可：
+  如果在 `隐私与安全性` 中找不到以上选项，或启动时提示文件损坏。打开 `Terminal.app`，并输入以下命令，然后重启 Saladict 即可：
 
   ```bash
   sudo xattr -d com.apple.quarantine /Applications/Saladict.app

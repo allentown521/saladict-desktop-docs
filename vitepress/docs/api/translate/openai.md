@@ -27,9 +27,9 @@ OpenAI API（gpt-3.5-turbo）一次性提供 5 美元的免费额度，而它的
 点击【Create new secret key】按钮，会出现一个弹窗，里面显示了 Secret Key
 复制 Secret Key
 
-### 第三步：在 pot 中填写 OpenAI 的 Secret Key
+### 第三步：在 Saladict 中填写 OpenAI 的 Secret Key
 
-将 Secret Key 填写进 pot 的【设置页】-【接口设置】-【Open AI ApiKey】即可。
+将 Secret Key 填写进 Saladict 的【设置页】-【接口设置】-【Open AI ApiKey】即可。
 
 ## 关于 Open AI api 连接不上的解决方案
 
@@ -58,7 +58,7 @@ pot 提供了软件内代理设置(软件内代理对 OpenAI 流式输出无效�
 
    ![AiHubMix](./asset/aihubmix2.png)
 
-4. 在 pot 中将自定义域名设置为 `orisound.cn` 或 `aihubmix.com`
+4. 在 Saladict 中将自定义域名设置为 `orisound.cn` 或 `aihubmix.com`
 5. 在设置中填入创建的令牌密钥保存即可
 
    ![AiHubMix](./asset/aihubmix3.png)
@@ -67,7 +67,7 @@ pot 提供了软件内代理设置(软件内代理对 OpenAI 流式输出无效�
 
 1. 打开[AI.LS](https://ai.ls/)官网
 2. 点击右边的`Get API Key/Tokens`,输入邮箱后购买
-3. 在 pot 中将自定义域名设置为`api.caipacity.com`
+3. 在 Saladict 中将自定义域名设置为`api.caipacity.com`
 4. 在设置中填入邮箱收到的 `Api Key`
 
    ![AI.LS](./asset/ai.ls.png)

@@ -11,7 +11,7 @@ The built-in services are limited. But you can expand the app's functionality th
 
 You can find plugins you need in the [Plugin List](/en/plugin), and then download it.
 
-The file extension of pot plugin is `.potext`. After downloading the `.potext` file, go to `Config - Service Settings - Add Extension - Install Plugin` to select the corresponding `.potext` to install it. It will then be added to the service list and can be used like a built-in service.
+The file extension of Saladict plugin is `.potext`. After downloading the `.potext` file, go to `Config - Service Settings - Add Extension - Install Plugin` to select the corresponding `.potext` to install it. It will then be added to the service list and can be used like a built-in service.
 
 :::warning Troubleshooting
 

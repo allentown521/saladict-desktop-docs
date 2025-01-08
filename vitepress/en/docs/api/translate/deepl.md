@@ -11,7 +11,7 @@ The documentation content may be outdated. Please refer to the official DeepL we
 
 ## Pricing
 
-DeepL offers two types of subscriptions: one for individuals and teams, and another for developers (DeepL API). pot can and only can use the developer version (DeepL API).
+DeepL offers two types of subscriptions: one for individuals and teams, and another for developers (DeepL API). Saladict can and only can use the developer version (DeepL API).
 
 The developer version (DeepL API) has two tiers:
 
