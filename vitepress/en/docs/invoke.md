@@ -5,7 +5,7 @@ titleTemplate: External Calls
 
 # External Calls
 
-Saladict provides a complete HTTP interface for integration with other software. You can call pot by sending HTTP requests to `127.0.0.1:port`, where `port` is the listening port of pot, default to `60828`, and can be changed in the app settings.
+Saladict provides a complete HTTP interface for integration with other software. You can call pot by sending HTTP requests to `127.0.0.1:port`, where `port` is the listening port of pot, default to `60606`, and can be changed in the app settings.
 
 ## API Docs:
 
@@ -32,7 +32,7 @@ GET "/ocr_translate?screenshot=true" => Translate screenshot
   E.g. using curl:
 
   ```bash
-  curl "127.0.0.1:60828/selection_translate"
+  curl "127.0.0.1:60606/selection_translate"
   ```
 
 ## OCR without internal screenshot
@@ -54,7 +54,7 @@ This allows you to perform OCR/translation without using pot's internal screensh
 OCR using Flameshot on Linux:
 
 ```bash
-rm ~/.cache/allen.town.focus.saladict/pot_screenshot_cut.png && flameshot gui -s -p ~/.cache/allen.town.focus.saladict/pot_screenshot_cut.png && curl "127.0.0.1:60828/ocr_recognize?screenshot=false"
+rm ~/.cache/allen.town.focus.saladict/pot_screenshot_cut.png && flameshot gui -s -p ~/.cache/allen.town.focus.saladict/pot_screenshot_cut.png && curl "127.0.0.1:60606/ocr_recognize?screenshot=false"
 ```
 
 ## Existing Usages (Quick selection translation)(Recommended)

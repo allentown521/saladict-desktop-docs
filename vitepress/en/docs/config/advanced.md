@@ -13,7 +13,7 @@ Advanced settings are designed for users with a certain technical foundation, an
 
 ## Listening Port
 
-Control the port that Saladict listens to, default is `60828`, this feature is only used for [external calls](/en/docs/invoke.html)
+Control the port that Saladict listens to, default is `60606`, this feature is only used for [external calls](/en/docs/invoke.html)
 
 If you are using the `SnipDo` or `PopClip` plugins provided by Saladict, please do not change this setting.
 

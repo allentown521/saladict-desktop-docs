@@ -5,7 +5,7 @@ titleTemplate: 外部调用
 
 # 外部调用
 
-沙拉翻译 提供了完整的 HTTP 接口，以便可以被其他软件调用。您可以通过向 `127.0.0.1:port` 发送 HTTP 请求来调用 pot，其中的`port`是 pot 监听的端口号，默认为`60828`,可以在软件设置中进行更改。
+沙拉翻译 提供了完整的 HTTP 接口，以便可以被其他软件调用。您可以通过向 `127.0.0.1:port` 发送 HTTP 请求来调用 pot，其中的`port`是 pot 监听的端口号，默认为`60606`,可以在软件设置中进行更改。
 
 ## API 文档:
 
@@ -32,7 +32,7 @@ GET "/ocr_translate?screenshot=true" => 截图翻译,
   例如通过 curl 发送请求：
 
   ```bash
-  curl "127.0.0.1:60828/selection_translate"
+  curl "127.0.0.1:60606/selection_translate"
   ```
 
 ## 不使用软件内截图
@@ -54,7 +54,7 @@ GET "/ocr_translate?screenshot=true" => 截图翻译,
 在 Linux 下调用 Flameshot 进行截图 OCR:
 
 ```bash
-rm ~/.cache/allen.town.focus.saladict/pot_screenshot_cut.png && flameshot gui -s -p ~/.cache/allen.town.focus.saladict/pot_screenshot_cut.png && curl "127.0.0.1:60828/ocr_recognize?screenshot=false"
+rm ~/.cache/allen.town.focus.saladict/pot_screenshot_cut.png && flameshot gui -s -p ~/.cache/allen.town.focus.saladict/pot_screenshot_cut.png && curl "127.0.0.1:60606/ocr_recognize?screenshot=false"
 ```
 
 ## 现有用法 (快捷划词翻译)(推荐使用)

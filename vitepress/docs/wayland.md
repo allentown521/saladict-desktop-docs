@@ -18,8 +18,8 @@ titleTemplate: Wayland
 下面给出在 Hyprland 下的配置示例(通过 grim 和 slurp 实现截图)：
 
 ```ini
-bind = ALT, X, exec, grim -g "$(slurp)" ~/.cache/allen.town.focus.saladict/pot_screenshot_cut.png && curl "127.0.0.1:60828/ocr_recognize?screenshot=false"
-bind = ALT, C, exec, grim -g "$(slurp)" ~/.cache/allen.town.focus.saladict/pot_screenshot_cut.png && curl "127.0.0.1:60828/ocr_translate?screenshot=false"
+bind = ALT, X, exec, grim -g "$(slurp)" ~/.cache/allen.town.focus.saladict/pot_screenshot_cut.png && curl "127.0.0.1:60606/ocr_recognize?screenshot=false"
+bind = ALT, C, exec, grim -g "$(slurp)" ~/.cache/allen.town.focus.saladict/pot_screenshot_cut.png && curl "127.0.0.1:60606/ocr_translate?screenshot=false"
 ```
 
 其他桌面环境/窗口管理器也是类似的操作
