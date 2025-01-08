@@ -59,6 +59,7 @@ export const enConfig = {
                 { text: "Recognize", link: "/en/docs/config/recognize" },
                 { text: "Service", link: "/en/docs/config/service" },
                 { text: "Backup", link: "/en/docs/config/backup" },
+                { text: "Advanced", link: "/en/docs/config/advanced" },
               ],
             },
             { text: "External Calls", link: "/en/docs/invoke" },

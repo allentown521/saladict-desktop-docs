@@ -59,6 +59,7 @@ export const zhConfig = {
                 { text: "文字识别设置", link: "/docs/config/recognize" },
                 { text: "服务设置", link: "/docs/config/service" },
                 { text: "备份设置", link: "/docs/config/backup" },
+                { text: "高级设置", link: "/docs/config/advanced" },
               ],
             },
             { text: "外部调用", link: "/docs/invoke" },
