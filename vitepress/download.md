@@ -51,6 +51,9 @@ const downloadExtension = (src)=>{
                 <img src="/logo/apple.svg" :class="$style.platformIcon" alt="MacOS" />
                 <h2 :class="$style.platformTitle">MacOS</h2>
             </div>
+            <button :class="$style.button" @click="downloadExtension('https://apps.apple.com/us/app/6740262076')">
+                Mac 应用商店
+            </button>
             <button :class="$style.button" @click="download('x64','dmg')">
                 MacOS x64
                 <Badge type="warning" text=".dmg" />
