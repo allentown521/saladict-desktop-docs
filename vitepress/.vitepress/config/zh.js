@@ -144,6 +144,11 @@ export const zhConfig = {
             },
             { text: "常见问题", link: "/docs/faq", collapsed: false ,items: [
               { text: "无法运行", link: "/docs/faq/run" },
+              { text: "划词问题", link: "/docs/faq/selection" },
+              { text: "截图问题", link: "/docs/faq/screenshot" },
+              { text: "反复提示需要辅助功能/录屏权限", link: "/docs/faq/alwaysAskForAccessibilityPermission" },
+              { text: "导出日志", link: "/docs/faq/log" },
+              { text: "macOS 15快捷键失效", link: "/docs/faq/macos15Shortcut" },
             ]},
           ],
         },

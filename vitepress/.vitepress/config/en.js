@@ -153,6 +153,11 @@ export const enConfig = {
             },
             { text: "FAQ", link: "/en/docs/faq", collapsed: false, items: [
               { text: "Cannot Run", link: "/en/docs/faq/run" },
+              { text: "Selection Problem", link: "/en/docs/faq/selection" },
+              { text: "Screenshot Problem", link: "/en/docs/faq/screenshot" },
+              { text: "Always Ask for Accessibility Permission", link: "/en/docs/faq/alwaysAskForAccessibilityPermission" },
+              { text: "Export Log", link: "/en/docs/faq/log" },
+              { text: "macOS 15 Shortcut Problem", link: "/en/docs/faq/macos15Shortcut" },
             ]},
           ],
         },
