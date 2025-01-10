@@ -151,7 +151,9 @@ export const enConfig = {
                 },
               ],
             },
-            { text: "FAQ", link: "/en/docs/faq" },
+            { text: "FAQ", link: "/en/docs/faq", collapsed: false, items: [
+              { text: "Cannot Run", link: "/en/docs/faq/run" },
+            ]},
           ],
         },
       ],

@@ -142,7 +142,9 @@ export const zhConfig = {
                 },
               ],
             },
-            { text: "常见问题", link: "/docs/faq" },
+            { text: "常见问题", link: "/docs/faq", collapsed: false ,items: [
+              { text: "无法运行", link: "/docs/faq/run" },
+            ]},
           ],
         },
       ],
