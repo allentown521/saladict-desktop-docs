@@ -5,7 +5,7 @@ titleTemplate: Quick Text Selection Translation
 
 # Quick Text Selection Translation
 
-Although translating using `select text -> copy -> hotkey` is very convenient, some users prefer a more efficient method.
+Although translating using `select text -> hotkey` is very convenient, some users prefer a more efficient method.
 
 Therefore, Saladict also supports quick text selection translation, simplifying the operation to `select text -> quick button translation`, which is more efficient.
 
