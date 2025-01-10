@@ -8,6 +8,10 @@ import { loadEnv } from 'vitepress'
 const env = loadEnv('', process.cwd())
 const UMAMI_ID = env.VITE_UMAMI_DATA_WEBSITE_ID
 
+if (!UMAMI_ID) {
+  throw new Error('UMAMI_ID is not set')
+}
+
 export const zhConfig = {
   description: META_DESCRIPTION,
   head: [
