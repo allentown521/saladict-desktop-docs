@@ -25,7 +25,11 @@ winget install Saladict.app
 
 ## MacOS
 
-:::warning Troubleshooting
+### Mac App Store 安装
+
+对于 M 系列的 Mac，强烈建议前往 [App Store](https://apps.apple.com/us/app/6740262076) 下载安装。
+
+:::warning 故障排除
 
 - 由于应用没有签名，所以 MacOS 可能会显示开发者无法验证或应用已损坏
 

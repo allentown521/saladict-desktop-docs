@@ -25,6 +25,10 @@ winget install Saladict.app
 
 ## MacOS
 
+### Mac App Store Installation
+
+For M-series Macs, it is strongly recommended to download and install from the [App Store](https://apps.apple.com/us/app/6740262076).
+
 :::warning Troubleshooting
 
 - "Saladict" can't be opened because the developer cannot be verified.
