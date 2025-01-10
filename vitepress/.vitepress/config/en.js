@@ -66,6 +66,7 @@ export const enConfig = {
                 { text: "Advanced", link: "/en/docs/config/advanced" },
               ],
             },
+            { text: "Quick Translate", link: "/en/docs/quick-translate" },
             { text: "External Calls", link: "/en/docs/invoke" },
             { text: "Plugin System", link: "/en/docs/plugin" },
             { text: "Wayland", link: "/en/docs/wayland" },

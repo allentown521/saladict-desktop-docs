@@ -66,6 +66,7 @@ export const zhConfig = {
                 { text: "高级设置", link: "/docs/config/advanced" },
               ],
             },
+            { text: "快捷划词翻译", link: "/docs/quick-translate"},
             { text: "外部调用", link: "/docs/invoke" },
             { text: "插件系统", link: "/docs/plugin" },
             { text: "Wayland", link: "/docs/wayland" },
