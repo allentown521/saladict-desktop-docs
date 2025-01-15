@@ -23,7 +23,7 @@ OpenAI API（gpt-3.5-turbo）一次性提供 5 美元的免费额度，而它的
 
 ### 第二步：创建 Secret Key
 
-打开 https://platform.openai.com/account/api-keys，如果没登录的话会让你登录
+打开 [OpenAI](https://platform.openai.com/account/api-keys)，如果没登录的话会让你登录
 点击【Create new secret key】按钮，会出现一个弹窗，里面显示了 Secret Key
 复制 Secret Key
 

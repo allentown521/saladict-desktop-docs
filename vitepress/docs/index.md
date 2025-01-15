@@ -87,11 +87,3 @@ titleTemplate: 使用指南
 - [扇贝](https://web.shanbay.com/web/main) ([插件](https://github.com/pot-app/pot-app-collection-plugin-shanbay))
 
 更多接口支持见 [插件系统](/docs/plugin)
-
-## 感谢
-
-- [Bob](https://github.com/ripperhe/Bob) 灵感来源
-- [bob-plugin-openai-translator](https://github.com/yetone/bob-plugin-openai-translator) OpenAI 接口参考
-- [@uiYzzi](https://github.com/uiYzzi) 实现思路
-- [@Lichenkass](https://github.com/Lichenkass) 维护 Deepin 应用商店中的 Saladict
-- [Tauri](https://github.com/tauri-apps/tauri) 好用的 GUI 框架

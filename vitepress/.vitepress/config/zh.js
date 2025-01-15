@@ -33,7 +33,7 @@ export const zhConfig = {
   themeConfig: {
     siteTitle: "沙拉翻译",
     nav: [
-      { text: "AiHubMix", link: "/ads/aihubmix", activeMatch: "/ads/" },
+      // { text: "AiHubMix", link: "/ads/aihubmix", activeMatch: "/ads/" },
       { text: "使用指南", link: "/docs/", activeMatch: "/docs/" },
       { text: "下载", link: "/download" },
       { text: "插件列表", link: "/plugin" },

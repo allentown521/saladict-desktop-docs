@@ -27,21 +27,21 @@ winget install Saladict.app
 
 ### Mac App Store 安装
 
-对于 M 系列的 Mac，强烈建议前往 [App Store](https://apps.apple.com/us/app/6740262076) 下载安装。
+对于 M 系列的 Mac，可以前往 Mac App Store 安装
 
-:::warning 故障排除
+ <a href="https://apps.apple.com/app/6740262076" target="_blank">
+  <img src="/img/download_on_mac_app_store.svg" alt="Download on the Mac App Store" style="width: 156px;" />
+ </a> 
 
-- 由于应用没有签名，所以 MacOS 可能会显示开发者无法验证或应用已损坏
+:::info 功能限制
 
-  点击 `取消` 按钮，然后去 `设置 -> 隐私与安全性` 页面，点击 `仍要打开` 按钮，然后在弹出窗口里点击
+由于技术限制，Mac App Store 版本不支持划词翻译以及划词后使用快捷键翻译，如果您对这两个功能有需求，请 [手动安装](#手动安装) 社区版，或者
 
-  `打开` 按钮即可，以后打开 沙拉翻译 就再也不会有任何弹窗警告了
+- 配合 [PopClip](/docs/quick-translate#popclip-macos) 实现全局划词翻译
 
-- 如果在 `隐私与安全性` 中找不到以上选项，或启动时提示文件损坏。打开 `Terminal.app`，并输入以下命令，然后重启 沙拉翻译 即可：
+- 配合 [沙拉翻译浏览器插件](https://saladict.aichatone.com/) 实现在浏览器使用时，实现划词翻译和快捷键翻译
 
-  ```bash
-  sudo xattr -d com.apple.quarantine /Applications/Saladict.app
-  ```
+我们会尽快解决这个问题，感谢您的理解与支持。
 
 :::
 
@@ -100,42 +100,6 @@ brew upgrade --cask Saladict
 ```bash
 sudo apt-get install ./pot_{version}_{arch}.deb
 ```
-
-#### 通过星火应用商店安装
-
-下载安装[星火应用商店](https://www.spark-app.store/)，在商店中搜索 `Saladict` 后点击安装即可。
-
-### Arch/Manjaro
-
-#### 通过 [AUR](https://aur.archlinux.org/packages?O=0&K=pot-translation) 安装
-
-使用 `AUR helper` 安装：
-
-```bash
-yay -S Saladict-translation # 或 Saladict-translation-bin
-
-# paru -S Saladict-translation # 或 Saladict-translation-bin
-```
-
-#### 通过 `archlinuxcn` 安装
-
-如果你使用 `archlinuxcn` 源，可以直接使用 pacman 安装
-
-```bash
-sudo pacman -S Saladict-translation
-```
-
-### Flatpak
-
-:::warning
-
-Flatpak 版本缺失托盘图标。
-
-:::
-
-<a href='https://flathub.org/apps/com.pot_app.pot'>
-    <img width='240' alt='Download on Flathub' src='https://flathub.org/api/badge?locale=zh-Hans'/>
-</a>
 
 ## 手动编译
 

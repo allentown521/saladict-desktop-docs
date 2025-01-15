@@ -17,7 +17,7 @@ titleTemplate: Installation Guide
 
 ### Installation via Winget
 
-Saladict also supports installation through the `winget` package manager. If you have `winget` installed, you can install 沙拉翻译 directly with this command:
+Saladict also supports installation through the `winget` package manager. If you have `winget` installed, you can install Saladict directly with this command:
 
 ```powershell
 winget install Saladict.app
@@ -27,23 +27,25 @@ winget install Saladict.app
 
 ### Mac App Store Installation
 
-For M-series Macs, it is strongly recommended to download and install from the [App Store](https://apps.apple.com/us/app/6740262076).
+For M-series Macs, you can install it from Mac App Store
 
-:::warning Troubleshooting
+ <a href="https://apps.apple.com/app/6740262076" target="_blank">
+  <img src="/img/download_on_mac_app_store.svg" alt="Download on the Mac App Store" style="width: 156px;" />
+ </a> 
 
-- "Saladict" can't be opened because the developer cannot be verified.
+:::info Feature Limitations
 
-  Click the `Cancel` button, then go to `Settings -> Privacy & Security`, click the `Still Open` button, and then click `Open` in the pop-up window. After this, there will be no more warning prompts when opening Saladict.
+Due to technical limitations, the Mac App Store version does not support selection translation and translation using shortcuts after selection. If you need these features, please [manually install](#manual-installation-community-version) the community version, or
 
-- If you cannot find these options in `Privacy & Security`, or get error prompts about broken files on Apple Silicon machines, open `Terminal.app` and enter this command (you may need to enter your password), then restart Saladict:
+- Use [PopClip](/en/docs/quick-translate#popclip-macos) to implement global selection translation
 
-  ```bash
-  sudo xattr -d com.apple.quarantine /Applications/Saladict.app
-  ```
+- Use [Saladict Browser Extension](https://saladict.aichatone.com/) to implement selection translation and shortcut translation in the browser
+
+We will address this issue as soon as possible. Thank you for your understanding and support.
 
 :::
 
-### Manual Installation
+### Manual Installation (Community Version)
 
 MacOS offers both the `x64` version and the `aarch64` version, which correspond to Macs with `Intel` chips and Macs with `M1/M2` chips respectively.
 
@@ -96,46 +98,8 @@ brew upgrade --cask Saladict
 Then use `apt-get` for installation.
 
 ```bash
-sudo apt-get install ./pot_{version}_{arch}.deb
+sudo apt-get install ./saladict_{version}_{arch}.deb
 ```
-
-#### Install via the Spark App Store.
-
-Download and install the [Spark App Store](https://www.spark-app.store/).
-
-Simply search for "Saladict" in the store and click on the installation button.
-
-### Arch/Manjaro
-
-#### Install via [AUR](https://aur.archlinux.org/packages?O=0&K=pot-translation)
-
-Use `AUR helper`：
-
-```bash
-yay -S Saladict-translation # 或 Saladict-translation-bin
-
-# paru -S Saladict-translation # 或 Saladict-translation-bin
-```
-
-#### Install via `archlinuxcn`
-
-If you are using the `archlinuxcn` repository, you can directly install it using pacman:
-
-```bash
-sudo pacman -S Saladict-translation
-```
-
-### Flatpak
-
-:::warning
-
-The tray icon is missing in Flatpak version.
-
-:::
-
-<a href='https://flathub.org/apps/com.pot_app.pot'>
-    <img width='240' alt='Download on Flathub' src='https://flathub.org/api/badge?locale=en'/>
-</a>
 
 ## Manual Compilation
 

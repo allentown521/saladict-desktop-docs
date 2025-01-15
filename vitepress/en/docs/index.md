@@ -87,11 +87,3 @@ More Services see [Plugin System](/en/docs/plugin)
 - [ShanBay](https://web.shanbay.com/web/main) ([Plugin](https://github.com/pot-app/pot-app-collection-plugin-shanbay))
 
 More Services see [Plugin System](/en/docs/plugin)
-
-## Acknowledgement
-
-- [Bob](https://github.com/ripperhe/Bob) Inspiration
-- [bob-plugin-openai-translator](https://github.com/yetone/bob-plugin-openai-translator) OpenAI API Reference
-- [@uiYzzi](https://github.com/uiYzzi) Implementation ideas
-- [@Lichenkass](https://github.com/Lichenkass) Maintaining the Deepin App Store.
-- [Tauri](https://github.com/tauri-apps/tauri) A user-friendly GUI framework.
