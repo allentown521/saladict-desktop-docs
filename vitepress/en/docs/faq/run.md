@@ -49,26 +49,6 @@ If the software cannot run, please refer to the following solutions
 
 :::
 
-## Mac Won't Start
-
-:::warning App Not Signed
-
-- Cause
-
-  For software not installed from the App Store, macOS might show that the developer cannot be verified or the app is damaged because the app is not signed. If you are using an M-series Mac, it is strongly recommended to download and install from the [App Store](https://apps.apple.com/us/app/6740262076).
-
-- Solution
-
-  Click the `Cancel` button, then go to `Settings -> Privacy & Security` page, click the `Open Anyway` button, and then click the `Open` button in the popup window. After this, there will be no more warning popups when opening Saladict.
-
-  If you cannot find the above options in `Privacy & Security`, or if you get a file corruption message at startup, open `Terminal.app` and enter the following command, then restart Saladict:
-
-  ```bash
-  sudo xattr -d com.apple.quarantine /Applications/Saladict.app
-  ```
-
-:::
-
 ## Removed by Antivirus Software
 
 :::warning Removed by Antivirus Software
