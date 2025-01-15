@@ -35,7 +35,7 @@ winget install Saladict.app
 
 :::info 功能限制
 
-由于技术限制，Mac App Store 版本不支持划词翻译以及划词后使用快捷键翻译，如果您对这两个功能有需求，请 [手动安装](#手动安装) 社区版，或者
+由于技术限制，Mac App Store 版本不支持[划词翻译](/docs/config/hotkey#划词翻译)以及[当文本被选中时显示翻译图标](/docs/config/general#当文本被选中时显示翻译图标)，如果您对这两个功能有需求，请 [手动安装](#手动安装) 社区版，或者
 
 - 配合 [PopClip](/docs/quick-translate#popclip-macos) 实现全局划词翻译
 

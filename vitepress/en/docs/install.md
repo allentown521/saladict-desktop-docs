@@ -35,7 +35,7 @@ For M-series Macs, you can install it from Mac App Store
 
 :::info Feature Limitations
 
-Due to technical limitations, the Mac App Store version does not support selection translation and translation using shortcuts after selection. If you need these features, please [manually install](#manual-installation-community-version) the community version, or
+Due to technical limitations, the Mac App Store version does not support [Selection Translation](/en/docs/config/hotkey#selection-translation) and [Translation Using Shortcuts After Selection](/en/docs/config/general#when-text-is-selected-show-translation-icon). If you need these features, please [manually install](#manual-installation-community-version) the community version, or
 
 - Use [PopClip](/en/docs/quick-translate#popclip-macos) to implement global selection translation
 
