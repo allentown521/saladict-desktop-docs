@@ -9,9 +9,11 @@ titleTemplate: General Settings
 
 Automatically start Saladict when system boots.
 
-## Check Updates on Start
+## Show Translation Icon When Text is Selected
 
-Check for new versions every time the software starts. If a new version is available, you will be prompted to update.
+Show the translation icon when text is selected. Click the translation icon to translate.
+
+> This feature is experimental and not supported on Linux and Mac App Store versions. It is recommended to use the [Quick Selection Translate](/en/docs/quick-translate) feature.
 
 ## Application Language
 

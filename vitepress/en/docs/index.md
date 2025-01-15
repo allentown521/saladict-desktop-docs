@@ -12,7 +12,7 @@ titleTemplate: User Guide
 
 | Clipboard Listening                                                                                                          | Screenshot OCR                     | Screenshot Translation                   |
 | ---------------------------------------------------------------------------------------------------------------------------- | ---------------------------------- | ---------------------------------------- |
-| Click the top left icon on any translation panel to start clipboard listening. Copied text will be translated automatically. | Press shortcut, select area to OCR | Press shortcut, select area to translate |
+| Right click the menu bar icon to select `Clipboard Listening` to start clipboard listening. Copied text will be translated automatically. | Right click the menu bar icon to select `OCR Recognize`, or press shortcut to select area to OCR | Right click the menu bar icon to select `OCR Translation`, or press shortcut to select area to translate |
 | <img src="/img/eg4.gif"/>                                                                                                    | <img src="/img/eg5.gif"/>          | <img src="/img/eg6.gif"/>                |
 
 ## Features
