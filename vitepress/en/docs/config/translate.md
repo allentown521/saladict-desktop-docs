@@ -58,7 +58,7 @@ Note that font size only affects the original text and translation in the transl
 - Remember Position: The translation window appears at the position where it was last closed.
 
 :::warning Note for Multi-screen Users
-If you last closed the translation window on a second screen, and then you disconnect that screen, 沙拉翻译 will still save the position on the second screen. This will cause the translation window to be invisible on the main screen next time. In this case, just switch to `Follow Mouse` mode.
+If you last closed the translation window on a second screen, and then you disconnect that screen, Saladict will still save the position on the second screen. This will cause the translation window to be invisible on the main screen next time. In this case, just switch to `Follow Mouse` mode.
 :::
 
 ## Remember Window Size

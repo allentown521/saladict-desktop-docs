@@ -5,7 +5,7 @@ titleTemplate: Service Settings
 
 # Service Settings
 
-Service settings are the core settings of 沙拉翻译 software, where all interface settings are configured.
+Service settings are the core settings of Saladict software, where all interface settings are configured.
 
 ## Built-in Services
 

@@ -5,15 +5,15 @@ titleTemplate: Wayland
 
 # Wayland
 
-Due to the varying levels of support for Wayland among different distributions, 沙拉翻译 itself cannot achieve perfect compatibility. Here are some solutions to common issues that can be implemented through proper configuration, allowing 沙拉翻译 to run perfectly on Wayland.
+Due to the varying levels of support for Wayland among different distributions, Saladict itself cannot achieve perfect compatibility. Here are some solutions to common issues that can be implemented through proper configuration, allowing Saladict to run perfectly on Wayland.
 
 ## Shortcut can't be used
 
-Due to the fact that Tauri's shortcut scheme does not support Wayland, the shortcut settings within the 沙拉翻译 application cannot be used under Wayland. You can set system shortcuts to trigger 沙拉翻译 by sending a request with curl. For more details, please refer to [External Calls](/en/docs/invoke).
+Due to the fact that Tauri's shortcut scheme does not support Wayland, the shortcut settings within the Saladict application cannot be used under Wayland. You can set system shortcuts to trigger Saladict by sending a request with curl. For more details, please refer to [External Calls](/en/docs/invoke).
 
 ## Screenshot cannot be used
 
-In some pure Wayland DE/WM (such as Hyprland), the built-in screenshot feature of 沙拉翻译 cannot be used. In this case, you can use other screenshot tools instead. For more details, please refer to [OCR without internal screenshot](/en/docs/invoke#ocr-without-internal-screenshot).
+In some pure Wayland DE/WM (such as Hyprland), the built-in screenshot feature of Saladict cannot be used. In this case, you can use other screenshot tools instead. For more details, please refer to [OCR without internal screenshot](/en/docs/invoke#ocr-without-internal-screenshot).
 
 Below is an example of configuration in Hyprland (capturing screenshots using `grim` and `slurp`):
 
@@ -26,7 +26,7 @@ Other desktop environments/window managers also have similar operations.
 
 ## The translation window follows the mouse position
 
-Due to the current inability of 沙拉翻译 to obtain correct mouse coordinates under Wayland, its internal implementation cannot work. For certain desktop environments/window managers, window rules can be set to achieve window following mouse position. Here we take Hyprland as an example:
+Due to the current inability of Saladict to obtain correct mouse coordinates under Wayland, its internal implementation cannot work. For certain desktop environments/window managers, window rules can be set to achieve window following mouse position. Here we take Hyprland as an example:
 
 ```ini
 windowrulev2 = float, class:(pot), title:(Translator|OCR|PopClip|Screenshot Translate) # Translation window floating
