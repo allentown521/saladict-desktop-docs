@@ -52,16 +52,10 @@ Since this application supports setting custom request domains, you can directly
 1. Open [AiHubMix](https://aihubmix.com/register?aff=trJY) official website, register and login
 2. Click `Top Navigation Bar - Recharge`, purchase proxy APIkey and exchange for credits
 
-   ![AiHubMix](./asset/aihubmix1.png)
-
 3. After purchase, click `Top Navigation Bar - Token - Create Token`
-
-   ![AiHubMix](./asset/aihubmix2.png)
 
 4. In Saladict, set the custom domain to `orisound.cn` or `aihubmix.com`
 5. Enter the created token key in settings and save
-
-   ![AiHubMix](./asset/aihubmix3.png)
 
 <!-- #### AI.LS
 
