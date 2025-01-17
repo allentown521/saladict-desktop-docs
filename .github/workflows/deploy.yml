@@ -12,6 +12,8 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
+    env:
+      VITE_UMAMI_DATA_WEBSITE_ID: ${{ secrets.VITE_UMAMI_DATA_WEBSITE_ID }}
     steps:
       - uses: actions/checkout@v4
       - name: Setup pnpm
