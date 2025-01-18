@@ -20,7 +20,7 @@ titleTemplate: Installation Guide
 Saladict also supports installation through the `winget` package manager. If you have `winget` installed, you can install Saladict directly with this command:
 
 ```powershell
-winget install Saladict.app
+winget install allentown521.Saladict
 ```
 
 ## MacOS
