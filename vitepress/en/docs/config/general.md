@@ -9,6 +9,10 @@ titleTemplate: General Settings
 
 Automatically start Saladict when system boots.
 
+## Hide Icon in Dock
+
+Hide the icon in the bottom Dock bar, including the translation window and settings window.
+
 ## Show Translation Icon When Text is Selected
 
 Show the translation icon when text is selected. Click the translation icon to translate.
