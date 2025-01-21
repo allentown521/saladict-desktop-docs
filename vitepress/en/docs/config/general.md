@@ -9,6 +9,8 @@ titleTemplate: General Settings
 
 Automatically start Saladict when system boots.
 
+> Mac App Store version does not support this feature, but you can manually set it up, which is also very simple. Open the system settings, search for "login items", find "open at login", click the bottom left "+" button, add "Saladict", and you can achieve the startup at login. We will support this feature soon.
+
 ## Hide Icon in Dock
 
 Hide the icon in the bottom Dock bar, including the translation window and settings window.
