@@ -19,8 +19,6 @@ To ensure the program functions properly, Saladict needs the following privacy p
 
 - Screen Recording Permission: This permission is used to capture specified screen areas for text recognition. Features like "Screenshot Translation," "Screenshot OCR," and "Silent Screenshot OCR" require this permission. Saladict will only request this permission when you use related features.
 
-- Automation Permission: This permission is used to control browsers to obtain currently selected text. Saladict will only request this permission when you use related features. This permission is optional.
-
 - Clipboard Read/Write: This permission is used to access currently selected text from the clipboard or write specified text to the clipboard.
 
 We do not save or share any data obtained through these permissions.
