@@ -23,13 +23,13 @@ To ensure the program functions properly, Saladict needs the following privacy p
 
 We do not save or share any data obtained through these permissions.
 
-## Data Collection
+## Data Collection and Usage
 
 Saladict does not collect core data generated during your usage, such as translated text and recognized images. If you enable services that require network requests, Saladict may send data to service providers' servers for processing to obtain required results.
 
 For example, if you enable the "Baidu Translation" service, when you translate text, Saladict will send the text data directly to Baidu Translation's servers for processing. This data does not pass through Saladict's servers, so we do not collect or share it.
 
-If you enable text recognition services like "Baidu OCR," when you use features like screenshot translation, Saladict will send images directly to Baidu OCR's servers for processing. This data also does not pass through Saladict's servers, and we do not collect or share it.
+If you enable text recognition services like "Baidu OCR," when you use features like screenshot translation, Saladict will send images directly to Baidu OCR's servers for processing. This data also does not pass through Saladict's servers, and we do not collect or share it or store it.
 
 Additionally, when using certain service providers' services, you may need to enter your own API keys into the Saladict main program for normal use. Saladict only saves your keys locally and never uploads them to servers.
 
