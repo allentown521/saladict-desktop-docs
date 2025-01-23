@@ -11,11 +11,11 @@ const version = '3.0.5'
 
 const download = (arch,ext)=>{
     if(ext === 'exe'){
-        open(`https://github.com/allentown521/saladict/releases/download/${version}/Saladict_${version}_${arch}-setup.exe`)
+        open(`https://github.com/allentown521/saladict/releases/download/${version}/saladict_${version}_${arch}-setup.exe`)
     }else if(ext === 'dmg'){
-        open(`https://github.com/allentown521/saladict/releases/download/${version}/Saladict_${version}_${arch}.dmg`)
+        open(`https://github.com/allentown521/saladict/releases/download/${version}/saladict_${version}_${arch}.dmg`)
     }else{
-        open(`https://github.com/allentown521/saladict/releases/download/${version}/Saladict_${version}_${arch}.${ext}`)
+        open(`https://github.com/allentown521/saladict/releases/download/${version}/saladict_${version}_${arch}.${ext}`)
     }
 }
 const downloadExtension = (src)=>{

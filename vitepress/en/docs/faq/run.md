@@ -23,7 +23,7 @@ If the software cannot run, please refer to the following solutions
 
   If you uninstalled WebView2, you can download and install the WebView2 package from Microsoft's official website.
 
-  If you are using an Enterprise edition system where installing WebView2 is inconvenient or not possible, please try downloading the version with built-in WebView2 from [Release](https://github.com/allentown521/saladict/releases/latest): `Saladict_{version}_{arch}_fix_webview2_runtime-setup.exe`
+  If you are using an Enterprise edition system where installing WebView2 is inconvenient or not possible, please try downloading the version with built-in WebView2 from [Release](https://github.com/allentown521/saladict/releases/latest): `saladict_{version}_{arch}_fix_webview2_runtime-setup.exe`
 
   ### Windows 10 Users
 
