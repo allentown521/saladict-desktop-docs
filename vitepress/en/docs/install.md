@@ -7,6 +7,12 @@ titleTemplate: Installation Guide
 
 ## Windows
 
+### Microsoft Store Installation
+
+ <a href="https://apps.microsoft.com/detail/9pfzvl2bqx1s" target="_blank">
+  <img src="/img/download_on_microsoft_store.png" alt="Download on the Microsoft Store" style="width: 156px;" />
+ </a> 
+
 ### Manual Installation
 
 - For 32-bit machines, download `Windows x86 (.exe)`. After downloading, double-click to install.

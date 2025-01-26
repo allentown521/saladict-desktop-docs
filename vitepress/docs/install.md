@@ -7,6 +7,12 @@ titleTemplate: 安装指南
 
 ## Windows
 
+### 通过 Microsoft Store 安装
+
+ <a href="https://apps.microsoft.com/detail/9pfzvl2bqx1s" target="_blank">
+  <img src="/img/download_on_microsoft_store.png" alt="Download on the Microsoft Store" style="width: 156px;" />
+ </a> 
+
 ### 手动下载安装
 
 - 32 位机器请下载 `Windows x86 (.exe)`，下载完成后双击安装即可。

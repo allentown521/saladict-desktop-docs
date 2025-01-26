@@ -33,6 +33,9 @@ const downloadExtension = (src)=>{
                 <img src="/logo/windows.svg" :class="$style.platformIcon" alt="Windows" />
                 <h2 :class="$style.platformTitle">Windows</h2>
             </div>
+            <button :class="$style.button" @click="downloadExtension('https://apps.microsoft.com/detail/9pfzvl2bqx1s')">
+                微软应用商店
+            </button>
             <button :class="$style.button" @click="download('x64','exe')">
                 Windows x64
                 <Badge type="warning" text=".exe" />
