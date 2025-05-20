@@ -29,6 +29,8 @@ export const enConfig = {
     ["meta", { property: "twitter:keywords", content: META_KEYWORDS }],
     ["meta", { property: "twitter:description", content: META_DESCRIPTION }],
     ["script", { async: "", src: "https://umami.aichatone.com/script.js", 'data-website-id': UMAMI_ID }],
+    ["meta", { name: "google-adsense-account", content: "ca-pub-6256483973048476" }],
+    ["script", { async: "", src: "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6256483973048476", crossorigin: "anonymous" }],
   ],
   themeConfig: {
     siteTitle: "Saladict",
