@@ -9,6 +9,8 @@ titleTemplate: OpenAI
 文档内容可能会过时，请以 OpenAI 官网说明为准。
 :::
 
+>沙拉翻译从 `V4.0.0` 版本开始提供在线翻译服务，您可以通过我们的平台直接访问 OpenAI 翻译服务。只需订阅我们平价的积分计划，[了解详情](https://saladict.net/zh/pricing)
+
 ## 价格
 
 OpenAI API（gpt-3.5-turbo）一次性提供 5 美元的免费额度，而它的价格为 0.002 美元 / 1000 tokens，其中 1000 tokens 大约为 750 个英文单词。有关 “token” 的详细解释见 OpenAI 文档：[Managing tokens](https://platform.openai.com/docs/guides/chat/managing-tokens)

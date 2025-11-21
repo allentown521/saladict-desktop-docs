@@ -9,6 +9,8 @@ titleTemplate: DeepL
 The documentation content may be outdated. Please refer to the official DeepL website for the most up-to-date information.
 :::
 
+>Saladict has been providing online translation services since version `V4.0.0`. You can directly access DeepL through our platform. - just subscribe to our affordable credit plans, [learn more](https://saladict.net/en/pricing)
+
 ## Pricing
 
 DeepL offers two types of subscriptions: one for individuals and teams, and another for developers (DeepL API). Saladict can and only can use the developer version (DeepL API).

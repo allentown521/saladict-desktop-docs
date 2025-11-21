@@ -9,6 +9,9 @@ titleTemplate: OpenAI
 The documentation content may be outdated. Please refer to the official OpenAI website for the most up-to-date information.
 :::
 
+>Saladict has been providing online translation services since version `V4.0.0`. You can directly access OpenAI through our platform. - just subscribe to our affordable credit plans, [learn more](https://saladict.net/en/pricing)
+
+
 ## Pricing
 
 OpenAI API (gpt-3.5-turbo) provides a one-time free credit of $5, and its price is $0.002 per 1000 tokens, where 1000 tokens is approximately 750 English words. For detailed explanation of "tokens", see OpenAI documentation: [Managing tokens](https://platform.openai.com/docs/guides/chat/managing-tokens)

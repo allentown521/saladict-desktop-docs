@@ -10,6 +10,8 @@ titleTemplate: DeepL
 文档内容可能会过时，请以 DeepL 官网说明为准。
 :::
 
+>沙拉翻译从 `V4.0.0` 版本开始提供在线翻译服务，您可以通过我们的平台直接访问 DeepL 翻译服务。只需订阅我们平价的积分计划，[了解详情](https://saladict.net/zh/pricing)
+
 ## 价格
 
 DeepL 的订阅类型分为两种：针对个人和团队和研发人员（DeepL API），Saladict 能且只能使用研发人员（DeepL API）。
