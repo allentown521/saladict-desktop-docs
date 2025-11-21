@@ -29,8 +29,8 @@ export default {
       mapping: 'title',
       inputPosition: 'top',
       lang: 'zh-CN',
-      lightTheme: 'https://saladict-app.aichatone.com/styles/giscus_light.css',
-      darkTheme: 'https://saladict-app.aichatone.com/styles/giscus_dark.css'
+      lightTheme: 'https://app.saladict.net/styles/giscus_light.css',
+      darkTheme: 'https://app.saladict.net/styles/giscus_dark.css'
     }, {
       frontmatter, route
     },

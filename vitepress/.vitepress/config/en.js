@@ -1,4 +1,4 @@
-export const META_URL = "https://saladict-app.aichatone.com/en/";
+export const META_URL = "https://app.saladict.net/en/";
 export const META_TITLE = "Saladict";
 export const META_KEYWORDS = "Translation, OCR, Text Recognition, TTS, Speech Synthesis, Saladict Translation Software, Cross-platform Translation Tool, OCR Text Recognition, Text Selection Translation, Screenshot Translation, Multi-engine Translation, AI Translation, ChatGPT, Offline Translation, Text Translation, Google Translate, Papago, Free Translation Software, OpenAI, Zhipu AI, Gemini, Ollama, Alibaba Translation, Baidu Translation, Caiyun Translation, Tencent Translator, Tencent Interactive Translation, Volcano Translation, Niutrans, Google Translate, Bing Translator, DeepL, Youdao Translation, Cambridge Dictionary, Yandex, Lingva, Tatoeba, ECDICT";
 export const META_DESCRIPTION = "Saladict is a powerful cross-platform text selection translation and OCR software that supports multiple translation engines including DeepL, OpenAI, and Google Translate. It features text selection translation, screenshot translation, text recognition, and text-to-speech synthesis. With its clean interface design and quick operation, it will be your ultimate translation software. Supporting offline translation to ensure privacy and security, Saladict makes cross-language communication more convenient.";
@@ -16,9 +16,9 @@ export const enConfig = {
   description: META_DESCRIPTION,
   head: [
     ["meta", { name: "keywords", content: META_KEYWORDS }],
-    ["link", { rel: "alternate", hreflang: "en", href: "https://saladict-app.aichatone.com/en/" }],
-    ["link", { rel: "alternate", hreflang: "zh", href: "https://saladict-app.aichatone.com/" }],
-    ["link", { rel: "alternate", hreflang: "x-default", href: "https://saladict-app.aichatone.com/" }],
+    ["link", { rel: "alternate", hreflang: "en", href: "https://app.saladict.net/en/" }],
+    ["link", { rel: "alternate", hreflang: "zh", href: "https://app.saladict.net/" }],
+    ["link", { rel: "alternate", hreflang: "x-default", href: "https://app.saladict.net/" }],
     ["meta", { name: "description", content: META_DESCRIPTION }],
     ["meta", { property: "og:url", content: META_URL }],
     ["meta", { property: "og:image", content: "/img/pot-social-card.png" }],

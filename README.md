@@ -1,6 +1,6 @@
 # 📄️Saladict App 官网&文档
 
-## [saladict-app.aichatone.com](https://saladict-app.aichatone.com)
+## [app.saladict.net](https://app.saladict.net)
 
 ## 文档结构
 

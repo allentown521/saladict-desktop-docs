@@ -51,7 +51,7 @@ export default defineConfig({
     },
   },
   sitemap: {
-    hostname: "https://saladict-app.aichatone.com",
+    hostname: "https://app.saladict.net",
     transformItems: (items) => {
       return items.map((item) => {
         return {
