@@ -7,7 +7,7 @@ titleTemplate: User Guide
 
 | Translation by selection                        | Translate by input                                                    | External calls                                                                           |
 | ----------------------------------------------- | --------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
-| Select text and press the shortcut to translate | Press shortcut to open translation window, translate by hitting Enter | More efficient workflow by integrating other apps, see [External Calls](/en/docs/invoke) |
+| Select text and press the shortcut or click translation icon to translate | Press shortcut to open translation window, translate by hitting Enter | More efficient workflow by integrating other apps, see [External Calls](/en/docs/invoke) |
 | <img src="/img/eg1.gif"/>                       | <img src="/img/eg2.gif"/>                                             | <img src="/img/eg3.gif"/>                                                                |
 
 | Clipboard Listening                                                                                                          | Screenshot OCR                     | Screenshot Translation                   |
