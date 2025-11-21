@@ -147,6 +147,7 @@ export const zhConfig = {
             },
             { text: "常见问题", link: "/docs/faq", collapsed: false ,items: [
               { text: "无法运行", link: "/docs/faq/run" },
+              { text: "如何使用社交账号登录", link: "/docs/faq/howtosociallogin" },
               { text: "划词问题", link: "/docs/faq/selection" },
               { text: "截图问题", link: "/docs/faq/screenshot" },
               { text: "反复提示需要辅助功能/录屏权限", link: "/docs/faq/alwaysAskForAccessibilityPermission" },
