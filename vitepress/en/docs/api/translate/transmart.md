@@ -13,6 +13,8 @@ The documentation content may be outdated. Please refer to the official TranSmar
 
 The Tencent Interactive Translation API is not yet stable, and specific pricing is unclear.
 
+> At present, you do not need to fill in any information, you can use it directly for free
+
 ## Application Steps
 
 ### Step 1: Visit TranSmart Official Website
