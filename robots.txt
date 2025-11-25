@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://saladict-app.aichatone.com/sitemap.xml
+Sitemap: https://app.saladict.net/sitemap.xml
