@@ -9,6 +9,8 @@ titleTemplate: 质谱 AI
 文档内容可能会过时，请以 智谱 AI 官网说明为准
 :::
 
+>沙拉翻译从 `V4.0.0` 版本开始提供在线翻译服务，您可以通过我们的平台直接访问 质谱 AI 翻译服务。只需订阅我们平价的积分计划，[了解详情](https://saladict.net/zh/pricing)
+
 ## 价格
 
 目前（2024 年 3 月），智谱 AI 在首次注册账户时赠送 100w tokens（使用期限一个月）。同时在实名认证后赠送 400w tokens（使用期限一个月）。具体的时限可以在[智谱 AI 开放平台后台](https://maas.aminer.cn/usercenter/apikeys)查看。

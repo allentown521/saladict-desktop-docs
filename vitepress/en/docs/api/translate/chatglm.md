@@ -9,6 +9,8 @@ titleTemplate: Zhipu AI
 The documentation content may be outdated. Please refer to the official Zhipu AI website for the most up-to-date information.
 :::
 
+>Saladict has been providing online translation services since version `V4.0.0`. You can directly access Zhipu AI through our platform. - just subscribe to our affordable credit plans, [learn more](https://saladict.net/en/pricing)
+
 ## Pricing
 
 Currently (March 2024), Zhipu AI offers 1 million tokens (valid for one month) when you first register an account. Additionally, after real-name verification, you receive 4 million tokens (valid for one month). You can check the specific time limits in the [Zhipu AI Open Platform Dashboard](https://maas.aminer.cn/usercenter/apikeys).
