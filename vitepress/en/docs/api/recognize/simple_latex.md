@@ -39,8 +39,6 @@ The documentation content may be outdated. Please refer to [Simple LaTeX Documen
   | 100000                 | 6000                         | 1 year          |
   | 1000000                | 36000                        | 1 year          |
 
-  
-
 ## Application Steps
 
 ### Step 1: Register and Login
@@ -51,25 +49,15 @@ Go to the [official website](https://simpletex.cn/user/register) to register and
 
 After logging in, go to User Center, then click API Open Platform (Public Beta) - Basic Information on the left, and click "Activate Now".
 
-![simplelatex1](./asset/simplelatex1.png)
-
 Read and agree to the agreement.
-
-![simplelatex2](./asset/simplelatex2.png)
 
 ### Step 3: Create Access Token
 
 Click "User Authorization Token" on the left, then click "Create New Token".
 
-![simplelatex3](./asset/simplelatex3.png)
-
 Enter a token name.
 
-![simplelatex4](./asset/simplelatex4.png)
-
 Creation successful. Click the copy button indicated by the red arrow to copy the token information.
-
-![simplelatex5](./asset/simplelatex5.png)
 
 ### Step 4: Fill Token into Saladict Settings
 
@@ -82,8 +70,6 @@ Simple LaTeX initially gives 1000 requests, and you can claim a 1000-call resour
 In the first month, you can claim both the initial gift resource package and the monthly free resource package.
 
 Click "Prepaid Resource Packages" on the left, then click "Claim Monthly Free Usage" at the bottom of the page.
-
-![simplelatex6](./asset/simplelatex6.png)
 
 ## Related Links
 
