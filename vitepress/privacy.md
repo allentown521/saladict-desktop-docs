@@ -47,6 +47,6 @@ editLink: false
 
 ## 联系我们
 
-如果您对我们的隐私政策有任何疑问或建议，请通过 <a href="mailto:product@aichatone.com">product@aichatone.com</a> 与我们联系。
+如果您对我们的隐私政策有任何疑问或建议，请通过 <a href="mailto: product@saladict.net"> product@saladict.net</a> 与我们联系。
 
 上次更新: 2025/01/14 14:35

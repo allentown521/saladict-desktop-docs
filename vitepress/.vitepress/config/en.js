@@ -43,7 +43,7 @@ export const enConfig = {
         text: "Community",
         items: [
           { text: "Github Discussions", link: "https://github.com/allentown521/saladict/discussions" },
-          { text: "Email", link: "mailto:product@aichatone.com" },
+          { text: "Email", link: "mailto: product@saladict.net" },
         ],
       },
       { text: "About", link: "/en/about" },

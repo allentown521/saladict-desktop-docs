@@ -47,6 +47,6 @@ We will notify you of any changes by posting the new privacy policy on this page
 
 ## Contact Us
 
-If you have any questions or suggestions about our privacy policy, please contact us at <a href="mailto:product@aichatone.com">product@aichatone.com</a>.
+If you have any questions or suggestions about our privacy policy, please contact us at <a href="mailto: product@saladict.net"> product@saladict.net</a>.
 
 Last updated: 2025/01/14 14:35

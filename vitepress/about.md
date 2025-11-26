@@ -17,7 +17,7 @@ const members = [
     title: '发起者',
     links: [
       { icon: 'github', link: 'https://github.com/allentown521' },
-      { icon: {svg: emailIcon }, link:'mailto:product@aichatone.com' },
+      { icon: {svg: emailIcon }, link:'mailto: product@saladict.net' },
       { icon: {svg: moneyIcon }, link:'https://ko-fi.com/focusapps' }
     ]
   }

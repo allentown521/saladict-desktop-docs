@@ -43,7 +43,7 @@ export const zhConfig = {
         text: "社区交流",
         items: [
           { text: "Github 讨论", link: "https://github.com/allentown521/saladict/discussions" },
-          { text: "电子邮件", link: "mailto:product@aichatone.com" },
+          { text: "电子邮件", link: "mailto: product@saladict.net" },
         ],
       },
       { text: "关于", link: "/about" },
