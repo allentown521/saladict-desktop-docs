@@ -7,7 +7,7 @@ editLink: false
 
 # Privacy Policy
 
-Saladict is a translation and OCR software for macOS that primarily fulfills translation and OCR needs by integrating services from multiple third-party providers.
+Saladict is a translation and OCR software for desktop that primarily fulfills translation and OCR needs by integrating services from multiple third-party providers.
 
 This privacy policy applies to the Saladict main program and its internally integrated frameworks and services, but not to Saladict plugins that you install yourself.
 
